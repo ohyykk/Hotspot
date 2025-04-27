@@ -1,170 +1,182 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Industry Total SF Interactive Bar Chart</title>
-  <script src="https://d3js.org/d3.v7.min.js"></script>
-  <style>
-    body {
-      font-family: sans-serif;
-      margin: 20px;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-    }
-    .chart-container {
-      text-align: center;
-    }
-    svg {
-      display: block;
-      margin: auto;
-    }
-    .bar {
-      fill: steelblue;
-    }
-    .axis-label {
-      font-size: 12px;
-      font-weight: bold;
-    }
-    .tooltip {
-      position: absolute;
-      background-color: white;
-      border: 1px solid #ccc;
-      padding: 5px;
-      pointer-events: none;
-      font-size: 12px;
-    }
-    #chart-title {
-      margin-bottom: 10px;
-    }
-  </style>
-</head>
-<body>
-  <div class="chart-container">
-    <h2 id="chart-title">Industry Total SF by Market, Industry & Time Period</h2>
-    <label for="market-select">Select Market:</label>
-    <select id="market-select"></select>
-    <svg width="960" height="500"></svg>
-  </div>
-  <script>
-    // Set up SVG and margins
-    const svg = d3.select('svg'),
-          margin = { top: 50, right: 20, bottom: 100, left: 60 },
-          width = +svg.attr('width') - margin.left - margin.right,
-          height = +svg.attr('height') - margin.top - margin.bottom;
-
-    const g = svg.append('g').attr('transform', `translate(${margin.left},${margin.top})`);
-
-    // Tooltip for hover
-    const tooltip = d3.select('body').append('div')
-      .attr('class', 'tooltip')
-      .style('opacity', 0);
-
-    // Load data
-    d3.csv('revised_leases.csv', d3.autoType).then(data => {
-      // Extract unique markets
-      const markets = Array.from(new Set(data.map(d => d.market))).sort();
-
-      // Populate market dropdown
-      d3.select('#market-select')
-        .selectAll('option')
-        .data(markets)
-        .enter()
-        .append('option')
-        .attr('value', d => d)
-        .text(d => d);
-
-      // Initial render with first market
-      updateChart(markets[0]);
-
-      // Update on market change
-      d3.select('#market-select').on('change', function() {
-        updateChart(this.value);
-      });
-
-      function updateChart(selectedMarket) {
-        // Filter data by selected market
-        const filtered = data.filter(d => d.market === selectedMarket);
-
-        // Build x-axis categories: combination of industry and time period
-        filtered.forEach(d => {
-          d.category = d.internal_industry + ' (' + d.Time_Period + ')';
-        });
-        const categories = filtered.map(d => d.category);
-
-        // Scales
-        const x = d3.scaleBand()
-          .domain(categories)
-          .range([0, width])
-          .padding(0.1);
-
-        const y = d3.scaleLinear()
-          .domain([0, d3.max(filtered, d => d.Industry_Total_SF)])
-          .nice()
-          .range([height, 0]);
-
-        // Remove existing bars and axes
-        g.selectAll('.bar').remove();
-        g.selectAll('.axis').remove();
-
-        // Draw bars
-        g.selectAll('.bar')
-          .data(filtered)
-          .enter()
-          .append('rect')
-            .attr('class', 'bar')
-            .attr('x', d => x(d.category))
-            .attr('y', d => y(d.Industry_Total_SF))
-            .attr('width', x.bandwidth())
-            .attr('height', d => height - y(d.Industry_Total_SF))
-            .on('mouseover', (event, d) => {
-              tooltip.transition().duration(200).style('opacity', .9);
-              tooltip.html(`Industry: <strong>${d.internal_industry}</strong><br/>` +
-                           `Period: <strong>${d.Time_Period}</strong><br/>` +
-                           `Total SF: <strong>${d.Industry_Total_SF.toLocaleString()}</strong>`)
-                     .style('left', (event.pageX + 5) + 'px')
-                     .style('top', (event.pageY - 28) + 'px');
-            })
-            .on('mouseout', () => {
-              tooltip.transition().duration(500).style('opacity', 0);
-            });
-
-        // X Axis
-        g.append('g')
-          .attr('class', 'axis x-axis')
-          .attr('transform', `translate(0,${height})`)
-          .call(d3.axisBottom(x))
-          .selectAll('text')
-            .attr('transform', 'rotate(-45)')
-            .style('text-anchor', 'end');
-
-        // X Axis Label
-        g.append('text')
-          .attr('class', 'axis-label')
-          .attr('x', width / 2)
-          .attr('y', height + margin.bottom - 40)
-          .style('text-anchor', 'middle')
-          .text('Industry (Time Period)');
-
-        // Y Axis
-        g.append('g')
-          .attr('class', 'axis y-axis')
-          .call(d3.axisLeft(y));
-
-        // Y Axis Label
-        g.select('.y-axis')
-          .append('text')
-            .attr('class', 'axis-label')
-            .attr('transform', 'rotate(-90)')
-            .attr('y', -50)
-            .attr('x', -height / 2)
-            .attr('dy', '1em')
-            .style('text-anchor', 'middle')
-            .text('Industry Total SF');
+  <head>
+    <meta charset="UTF-8" />
+    <title>Industry Total SF Interactive Bar Chart</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+      body {
+        font-family: sans-serif;
+        margin: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
       }
-    }).catch(error => console.error(error));
-  </script>
-</body>
+      .chart-container {
+        text-align: center;
+      }
+      svg {
+        display: block;
+        margin: auto;
+      }
+      .bar {
+        fill: steelblue;
+      }
+      .axis-label {
+        font-size: 12px;
+        font-weight: bold;
+      }
+      .tooltip {
+        position: absolute;
+        background-color: white;
+        border: 1px solid #ccc;
+        padding: 5px;
+        pointer-events: none;
+        font-size: 12px;
+      }
+      #chart-title {
+        margin-bottom: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="chart-container">
+      <h2 id="chart-title">
+        Industry Total SF by Market, Industry & Time Period
+      </h2>
+      <label for="market-select">Select Market:</label>
+      <select id="market-select"></select>
+      <svg width="960" height="500"></svg>
+    </div>
+    <script>
+      // Set up SVG and margins
+      const svg = d3.select("svg"),
+        margin = { top: 50, right: 20, bottom: 150, left: 60 }, // Increased bottom margin
+        width = +svg.attr("width") - margin.left - margin.right,
+        height = +svg.attr("height") - margin.top - margin.bottom;
+
+      const g = svg
+        .append("g")
+        .attr("transform", `translate(${margin.left},${margin.top})`);
+
+      // Tooltip for hover
+      const tooltip = d3
+        .select("body")
+        .append("div")
+        .attr("class", "tooltip")
+        .style("opacity", 0);
+
+      // Load data
+      d3.csv("revised_leases.csv", d3.autoType)
+        .then((data) => {
+          // Extract unique markets
+          const markets = Array.from(new Set(data.map((d) => d.market))).sort();
+
+          // Populate market dropdown
+          d3.select("#market-select")
+            .selectAll("option")
+            .data(markets)
+            .enter()
+            .append("option")
+            .attr("value", (d) => d)
+            .text((d) => d);
+
+          // Initial render with first market
+          updateChart(markets[0]);
+
+          // Update on market change
+          d3.select("#market-select").on("change", function () {
+            updateChart(this.value);
+          });
+
+          function updateChart(selectedMarket) {
+            // Filter data by selected market
+            const filtered = data.filter((d) => d.market === selectedMarket);
+
+            // Build x-axis categories: combination of industry and time period
+            filtered.forEach((d) => {
+              d.category = d.internal_industry + " (" + d.Time_Period + ")";
+            });
+            const categories = filtered.map((d) => d.category);
+
+            // Scales
+            const x = d3
+              .scaleBand()
+              .domain(categories)
+              .range([0, width])
+              .padding(0.1);
+
+            const y = d3
+              .scaleLinear()
+              .domain([0, d3.max(filtered, (d) => d.Industry_Total_SF)])
+              .nice()
+              .range([height, 0]);
+
+            // Remove existing bars and axes
+            g.selectAll(".bar").remove();
+            g.selectAll(".axis").remove();
+
+            // Draw bars
+            g.selectAll(".bar")
+              .data(filtered)
+              .enter()
+              .append("rect")
+              .attr("class", "bar")
+              .attr("x", (d) => x(d.category))
+              .attr("y", (d) => y(d.Industry_Total_SF))
+              .attr("width", x.bandwidth())
+              .attr("height", (d) => height - y(d.Industry_Total_SF))
+              .on("mouseover", (event, d) => {
+                tooltip.transition().duration(200).style("opacity", 0.9);
+                tooltip
+                  .html(
+                    `Industry: <strong>${d.internal_industry}</strong><br/>` +
+                      `Period: <strong>${d.Time_Period}</strong><br/>` +
+                      `Total SF: <strong>${d.Industry_Total_SF.toLocaleString()}</strong>`
+                  )
+                  .style("left", event.pageX + 5 + "px")
+                  .style("top", event.pageY - 28 + "px");
+              })
+              .on("mouseout", () => {
+                tooltip.transition().duration(500).style("opacity", 0);
+              });
+
+            // X Axis
+            g.append("g")
+              .attr("class", "axis x-axis")
+              .attr("transform", `translate(0,${height})`)
+              .call(d3.axisBottom(x))
+              .selectAll("text")
+              .attr("transform", "rotate(50)")
+              .attr("y", 0)
+              .attr("x", 9) // Move text to the right of the tick
+              .attr("dy", ".35em")
+              .style("text-anchor", "start");
+
+            // X Axis Label
+            g.append("text")
+              .attr("class", "axis-label")
+              .attr("x", width / 2)
+              .attr("y", height + margin.bottom - 20) // Position closer to bottom
+              .style("text-anchor", "middle")
+              .text("Industry (Time Period)");
+
+            // Y Axis
+            g.append("g").attr("class", "axis y-axis").call(d3.axisLeft(y));
+
+            // Y Axis Label
+            g.select(".y-axis")
+              .append("text")
+              .attr("class", "axis-label")
+              .attr("transform", "rotate(-90)")
+              .attr("y", -50)
+              .attr("x", -height / 2)
+              .attr("dy", "1em")
+              .style("text-anchor", "middle")
+              .text("Industry Total SF");
+          }
+        })
+        .catch((error) => console.error(error));
+    </script>
+  </body>
 </html>
-
-

@@ -315,7 +315,7 @@
 
 .recommendations-container h1 {
     color: #E65100;
-    font-size: 3.5em;
+    font-size: 4.5em;
     margin-bottom: 50px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
@@ -324,13 +324,13 @@
     display: flex;
     justify-content: space-around;
     width: 100%;
-    max-width: 1200px;
-    gap: 30px;
+    max-width: 1400px;
+    gap: 40px;
 }
 
 .recommendation-bubble {
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
     background: rgba(255, 255, 255, 0.9);
     border-radius: 50%;
     display: flex;
@@ -359,19 +359,19 @@
 
 .bubble-content {
     text-align: center;
-    padding: 20px;
+    padding: 30px;
 }
 
 .bubble-content h3 {
     color: #E65100;
-    font-size: 1.5em;
-    margin-bottom: 15px;
+    font-size: 2.2em;
+    margin-bottom: 25px;
 }
 
 .bubble-content p {
     color: #666;
-    font-size: 1.1em;
-    line-height: 1.4;
+    font-size: 1.4em;
+    line-height: 1.5;
 }
 
 @keyframes float {
@@ -384,4 +384,53 @@
     100% {
         transform: translateY(0px);
     }
+}
+
+/* Recommendations Section Background */
+.section:nth-of-type(8) {
+    position: relative;
+}
+
+.section:nth-of-type(8)::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.7);
+    z-index: 1;
+}
+
+.section:nth-of-type(8) > * {
+    position: relative;
+    z-index: 2;
+}
+
+/* Hotspot Map Section Background */
+#fullpage .section:nth-of-type(7) {
+    position: relative !important;
+}
+
+#fullpage .section:nth-of-type(7)::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.5) !important;
+    z-index: 1;
+}
+
+#fullpage .section:nth-of-type(7) > * {
+    position: relative !important;
+    z-index: 2 !important;
+}
+
+#fullpage .section:nth-of-type(7) h1 {
+    color: #FFB300;
+    font-size: 3.5em;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    margin-bottom: 20px;
 } 

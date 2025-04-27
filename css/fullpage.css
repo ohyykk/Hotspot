@@ -6,6 +6,10 @@ h1 {
     margin: 0;
 }
 
+.intro {
+    text-align: center;
+}
+
 .intro p {
     width: 50%;
     margin: 0.5em auto;
@@ -15,39 +19,77 @@ h1 {
 
 .section {
     font-family: Georgia, serif;
-    color: #fff;
+    color: #333;
     text-align: center;
+    background-color: #fff8dc;
 }
 
-/* Backgrounds colors for sections */
+/* First section with background image */
 .fp-section:nth-child(1) {
-    background-image: linear-gradient(128deg,#40afff,#3f61ff);
+    background-image: url('../image/image1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
 }
 
+/* Overlay for better text readability */
+.fp-section:nth-child(1)::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.4); /* Semi-transparent overlay */
+    z-index: 1;
+}
+
+/* Ensure content stays above overlay */
+.fp-section:nth-child(1) .intro {
+    position: relative;
+    z-index: 2;
+}
+
+/* Make text more visible on the image */
+.fp-section:nth-child(1) h1 {
+    color: #FFB300;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-size: 2.5em;
+    margin-bottom: 20px;
+}
+
+.fp-section:nth-child(1) p {
+    color: #FFB300 !important;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-size: 1.2em;
+}
+
+/* Other sections backgrounds */
 .fp-section:nth-child(2) {
-    background-image: linear-gradient(128deg,#ff9a3f,#ff4b40);
+    background-image: linear-gradient(128deg,#fafad2,#ffffe0);
 }
 
 .fp-section:nth-child(3) {
-    background-image: linear-gradient(128deg,#fc40ff,#543fff);
+    background-image: linear-gradient(128deg,#ffffe0,#fffacd);
 }
 
 .fp-section:nth-child(4) {
-    background-image: linear-gradient(128deg,#40fff2,#3fbcff);
+    background-image: linear-gradient(128deg,#fffacd,#fff8dc);
 }
 
 .fp-section:nth-child(5) {
-    background-image: linear-gradient(128deg,#ffd700,#ff8c00);
+    background-image: linear-gradient(128deg,#fff8dc,#fafad2);
 }
 
 .fp-section:nth-child(6) {
-    background-image: linear-gradient(128deg,#32cd32,#228b22);
+    background-image: linear-gradient(128deg,#fafad2,#ffffe0);
 }
 
 /* Overwriting styles for the navigation dots */
 #fp-nav ul li a span,
 .fp-slidesNav ul li a span {
-    background: white;
+    background: #fff;
 }
 
 /* Uncomment to overwrite the styles of the tooltips too */

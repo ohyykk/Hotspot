@@ -1,0 +1,65 @@
+<!-- fullPage.js HTML -->
+<div id="fullpage">
+    <div class="section">
+        <div class="intro">
+            <h1>Navigation bullets</h1>
+            <p>Create a vertical and horizontal navigation</p>
+        </div>
+    </div>
+    <div class="section">
+        <div class="slide"><h1>Section 2</h1></div>
+        <div class="slide"><h1>Slide 2.2</h1></div>
+        <div class="slide"><h1>Slide 2.3</h1></div>
+    </div>
+    <div class="section"><h1>Section 3</h1></div>
+</div>
+
+h1 {
+    font-size: 6em;
+    font-size: calc(2em + 2vw);
+    font-family: arial,helvetica;
+    margin: 0;
+}
+
+.intro p {
+    width: 50%;
+    margin: 0.5em auto;
+    font-size: 1.65em;
+}
+
+.section {
+    font-family: arial,helvetica;
+    color: #fff;
+    text-align: center;
+}
+
+/* Backgrounds colors for sections */
+.fp-section:nth-child(1) {
+    background-image: linear-gradient(128deg,#40afff,#3f61ff);
+}
+
+.fp-section:nth-child(2) {
+    background-image: linear-gradient(128deg,#ff9a3f,#ff4b40);
+}
+
+.fp-section:nth-child(3) {
+    background-image: linear-gradient(128deg,#fc40ff,#543fff);
+}
+
+.fp-section:nth-child(4) {
+    background-image: linear-gradient(128deg,#40fff2,#3fbcff);
+}
+
+/* Overwriting styles for the navigation dots */
+#fp-nav ul li a span,
+.fp-slidesNav ul li a span {
+    background: white;
+}
+
+/* Uncomment to overwrite the styles of the tooltips too */
+/*
+.fp-tooltip {
+    font-size: 1.2em !important;
+    margin-right: 10px;
+}
+*/

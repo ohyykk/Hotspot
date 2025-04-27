@@ -1,18 +1,4 @@
-<!-- fullPage.js HTML -->
-<div id="fullpage">
-    <div class="section">
-        <div class="intro">
-            <h1>Navigation bullets</h1>
-            <p>Create a vertical and horizontal navigation</p>
-        </div>
-    </div>
-    <div class="section">
-        <div class="slide"><h1>Section 2</h1></div>
-        <div class="slide"><h1>Slide 2.2</h1></div>
-        <div class="slide"><h1>Slide 2.3</h1></div>
-    </div>
-    <div class="section"><h1>Section 3</h1></div>
-</div>
+
 
 h1 {
     font-size: 6em;

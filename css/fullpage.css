@@ -1,9 +1,36 @@
+/* Team name styling */
+.team-name {
+    position: fixed;
+    top: 20px;
+    right: 30px;
+    font-family: Georgia, serif;
+    font-size: 1.2em;
+    color: #FFB300;
+    z-index: 1000;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    font-weight: bold;
+}
+
 /* Base styles */
 h1 {
     font-size: 6em;
     font-size: calc(2em + 2vw);
     font-family: Georgia, serif;
     margin: 0;
+}
+
+h2 {
+    font-size: calc(1.5em + 1vw);
+    font-family: Georgia, serif;
+    margin: 0 0 20px 0;
+    color: #333;
+}
+
+h3 {
+    font-size: calc(1em + 0.5vw);
+    font-family: Georgia, serif;
+    margin: 0 0 10px 0;
+    color: #333;
 }
 
 .intro {
@@ -98,4 +125,88 @@ h1 {
     font-size: 1.2em !important;
     margin-right: 10px;
 }
-*/ 
+*/
+
+/* Key points styling */
+.key-points {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    margin-top: 40px;
+    padding: 0 20px;
+}
+
+.point {
+    flex: 1;
+    max-width: 300px;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    backdrop-filter: blur(5px);
+}
+
+.point p {
+    font-size: 1.1em;
+    margin: 10px 0 0;
+    color: #555;
+}
+
+/* Team container styling */
+.team-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    padding: 20px;
+    height: 100%;
+    background-color: #fff8dc;
+}
+
+.team-member {
+    text-align: center;
+    width: 200px;
+}
+
+.member-photo {
+    width: 180px;
+    height: 180px;
+    margin: 0 auto 15px;
+    border-radius: 50%;
+    padding: 10px;
+    background: linear-gradient(45deg, #FFB300, #FFC107);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+    overflow: hidden;
+}
+
+.member-photo:hover {
+    transform: scale(1.05);
+}
+
+.member-img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #fff;
+}
+
+.photo-placeholder {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    background-color: white;
+    border: 3px solid #fff;
+}
+
+.team-member h3 {
+    color: #333;
+    margin: 10px 0 5px;
+    font-size: 1.2em;
+}
+
+.team-member p {
+    color: #666;
+    margin: 0;
+    font-size: 1em;
+} 

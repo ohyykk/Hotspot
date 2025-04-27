@@ -233,4 +233,91 @@ h3 {
     font-weight: bold;
     font-size: 1.2em;
     text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+}
+
+/* Third section styling */
+.fp-section:nth-child(3) {
+    background-color: #FFF9F9;
+}
+
+.third-section-content {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+.third-section-content h2 {
+    font-size: 2.5em;
+    color: #333;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.data-points {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.data-points li {
+    font-size: 1.4em;
+    margin-bottom: 20px;
+    padding: 15px;
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.highlight {
+    color: #E65100;
+    font-weight: bold;
+}
+
+/* Market Analysis section styling */
+.section:nth-of-type(3) {
+    background-color: #FFF9E6 !important; /* Light yellow background */
+}
+
+.data-card {
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 12px;
+    padding: 25px;
+    margin: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    text-align: center;
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+.data-card h3 {
+    color: #333;
+    font-size: 1.5em;
+    margin-bottom: 15px;
+}
+
+.data-card p {
+    margin: 8px 0;
+    font-size: 1.2em;
+}
+
+.data-card .highlight {
+    font-size: 2.5em;
+    color: #E65100;
+    font-weight: bold;
+    margin: 15px 0;
+}
+
+.slide {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 40px;
+}
+
+.slide h2 {
+    font-size: 2.5em;
+    color: #333;
+    margin-bottom: 40px;
 } 

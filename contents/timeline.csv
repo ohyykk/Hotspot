@@ -1,0 +1,1838 @@
+year,quarter,internal_industry,market,leasedSF_sum,leasedSF_mean
+2018,1,Financial Services and Insurance,Atlanta,134852.0,33713.0
+2018,1,Financial Services and Insurance,Austin,68556.0,34278.0
+2018,1,Financial Services and Insurance,Charlotte,642920.0,214306.66666666666
+2018,1,Financial Services and Insurance,Chicago,1164353.0,129372.55555555556
+2018,1,Financial Services and Insurance,Chicago Suburbs,10086.0,10086.0
+2018,1,Financial Services and Insurance,Dallas/Ft Worth,333873.0,66774.6
+2018,1,Financial Services and Insurance,Detroit,26017.0,26017.0
+2018,1,Financial Services and Insurance,Houston,39049.0,19524.5
+2018,1,Financial Services and Insurance,Los Angeles,248431.0,82810.33333333333
+2018,1,Financial Services and Insurance,Manhattan,2543506.0,79484.5625
+2018,1,Financial Services and Insurance,Northern New Jersey,211078.0,70359.33333333333
+2018,1,Financial Services and Insurance,Northern Virginia,971308.0,485654.0
+2018,1,Financial Services and Insurance,Orange County,150703.0,37675.75
+2018,1,Financial Services and Insurance,Philadelphia,122070.0,61035.0
+2018,1,Financial Services and Insurance,Phoenix,174522.0,58174.0
+2018,1,Financial Services and Insurance,San Diego,145122.0,72561.0
+2018,1,Financial Services and Insurance,San Francisco,67673.0,33836.5
+2018,1,Financial Services and Insurance,South Florida,41100.0,20550.0
+2018,1,Financial Services and Insurance,Southern Maryland,94567.0,23641.75
+2018,1,Financial Services and Insurance,Tampa,86154.0,43077.0
+2018,1,Financial Services and Insurance,Washington D.C.,50186.0,25093.0
+2018,1,Legal Services,Atlanta,139277.0,69638.5
+2018,1,Legal Services,Boston,100593.0,100593.0
+2018,1,Legal Services,Chicago,92658.0,30886.0
+2018,1,Legal Services,Dallas/Ft Worth,188897.0,94448.5
+2018,1,Legal Services,Denver,23878.0,23878.0
+2018,1,Legal Services,Houston,24494.0,24494.0
+2018,1,Legal Services,Los Angeles,169046.0,33809.2
+2018,1,Legal Services,Manhattan,430084.0,43008.4
+2018,1,Legal Services,Orange County,30887.0,15443.5
+2018,1,Legal Services,San Diego,24368.0,24368.0
+2018,1,Legal Services,San Francisco,78414.0,78414.0
+2018,1,Legal Services,Seattle,31081.0,31081.0
+2018,1,Legal Services,Tampa,41002.0,20501.0
+2018,1,Legal Services,Washington D.C.,192192.0,64064.0
+2018,1,"Technology, Advertising, Media, and Information",Atlanta,168006.0,33601.2
+2018,1,"Technology, Advertising, Media, and Information",Austin,276903.0,46150.5
+2018,1,"Technology, Advertising, Media, and Information",Baltimore,59161.0,59161.0
+2018,1,"Technology, Advertising, Media, and Information",Boston,94623.0,47311.5
+2018,1,"Technology, Advertising, Media, and Information",Charlotte,53716.0,26858.0
+2018,1,"Technology, Advertising, Media, and Information",Chicago,241677.0,60419.25
+2018,1,"Technology, Advertising, Media, and Information",Chicago Suburbs,54492.0,54492.0
+2018,1,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,41225.0,41225.0
+2018,1,"Technology, Advertising, Media, and Information",Denver,76122.0,25374.0
+2018,1,"Technology, Advertising, Media, and Information",Houston,98271.0,32757.0
+2018,1,"Technology, Advertising, Media, and Information",Los Angeles,299106.0,37388.25
+2018,1,"Technology, Advertising, Media, and Information",Manhattan,1180008.0,56190.857142857145
+2018,1,"Technology, Advertising, Media, and Information",Northern Virginia,338148.0,84537.0
+2018,1,"Technology, Advertising, Media, and Information",Orange County,49494.0,24747.0
+2018,1,"Technology, Advertising, Media, and Information",Philadelphia,24112.0,24112.0
+2018,1,"Technology, Advertising, Media, and Information",Raleigh/Durham,94157.0,47078.5
+2018,1,"Technology, Advertising, Media, and Information",San Diego,186680.0,46670.0
+2018,1,"Technology, Advertising, Media, and Information",San Francisco,432471.0,39315.545454545456
+2018,1,"Technology, Advertising, Media, and Information",Seattle,293950.0,97983.33333333333
+2018,1,"Technology, Advertising, Media, and Information",South Bay/San Jose,934392.0,233598.0
+2018,1,"Technology, Advertising, Media, and Information",Southern Maryland,110000.0,110000.0
+2018,1,"Technology, Advertising, Media, and Information",Tampa,49000.0,49000.0
+2018,1,"Technology, Advertising, Media, and Information",Washington D.C.,162237.0,32447.4
+2018,2,Financial Services and Insurance,Austin,65352.0,21784.0
+2018,2,Financial Services and Insurance,Baltimore,44942.0,22471.0
+2018,2,Financial Services and Insurance,Charlotte,93000.0,93000.0
+2018,2,Financial Services and Insurance,Chicago,442573.0,110643.25
+2018,2,Financial Services and Insurance,Dallas/Ft Worth,129014.0,32253.5
+2018,2,Financial Services and Insurance,Denver,44890.0,22445.0
+2018,2,Financial Services and Insurance,Houston,50145.0,25072.5
+2018,2,Financial Services and Insurance,Los Angeles,17593.0,17593.0
+2018,2,Financial Services and Insurance,Manhattan,1898796.0,51318.81081081081
+2018,2,Financial Services and Insurance,Northern New Jersey,177721.0,59240.333333333336
+2018,2,Financial Services and Insurance,Northern Virginia,54598.0,27299.0
+2018,2,Financial Services and Insurance,Orange County,105400.0,52700.0
+2018,2,Financial Services and Insurance,Philadelphia,237173.0,118586.5
+2018,2,Financial Services and Insurance,Phoenix,24114.0,24114.0
+2018,2,Financial Services and Insurance,Raleigh/Durham,14552.0,14552.0
+2018,2,Financial Services and Insurance,San Diego,37239.0,18619.5
+2018,2,Financial Services and Insurance,San Francisco,159428.0,53142.666666666664
+2018,2,Financial Services and Insurance,South Florida,119033.0,29758.25
+2018,2,Financial Services and Insurance,Tampa,41278.0,20639.0
+2018,2,Financial Services and Insurance,Washington D.C.,242104.0,80701.33333333333
+2018,2,Legal Services,Austin,18951.0,18951.0
+2018,2,Legal Services,Chicago,112369.0,37456.333333333336
+2018,2,Legal Services,Dallas/Ft Worth,11213.0,11213.0
+2018,2,Legal Services,Denver,99224.0,33074.666666666664
+2018,2,Legal Services,Houston,178000.0,59333.333333333336
+2018,2,Legal Services,Los Angeles,23710.0,23710.0
+2018,2,Legal Services,Manhattan,1126054.0,93837.83333333333
+2018,2,Legal Services,Orange County,15557.0,15557.0
+2018,2,Legal Services,Philadelphia,93715.0,46857.5
+2018,2,Legal Services,San Francisco,45996.0,15332.0
+2018,2,Legal Services,Seattle,10920.0,10920.0
+2018,2,Legal Services,South Florida,14559.0,14559.0
+2018,2,Legal Services,Washington D.C.,71981.0,14396.2
+2018,2,"Technology, Advertising, Media, and Information",Atlanta,260806.0,65201.5
+2018,2,"Technology, Advertising, Media, and Information",Austin,366991.0,91747.75
+2018,2,"Technology, Advertising, Media, and Information",Boston,501961.0,167320.33333333334
+2018,2,"Technology, Advertising, Media, and Information",Charlotte,24698.0,12349.0
+2018,2,"Technology, Advertising, Media, and Information",Chicago,753561.0,188390.25
+2018,2,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,143609.0,71804.5
+2018,2,"Technology, Advertising, Media, and Information",Denver,144377.0,36094.25
+2018,2,"Technology, Advertising, Media, and Information",Los Angeles,88027.0,29342.333333333332
+2018,2,"Technology, Advertising, Media, and Information",Manhattan,1333080.0,51272.307692307695
+2018,2,"Technology, Advertising, Media, and Information",Northern New Jersey,164106.0,54702.0
+2018,2,"Technology, Advertising, Media, and Information",Northern Virginia,503175.0,62896.875
+2018,2,"Technology, Advertising, Media, and Information",Orange County,143955.0,47985.0
+2018,2,"Technology, Advertising, Media, and Information",Phoenix,15000.0,15000.0
+2018,2,"Technology, Advertising, Media, and Information",Raleigh/Durham,69306.0,69306.0
+2018,2,"Technology, Advertising, Media, and Information",San Francisco,1272049.0,115640.81818181818
+2018,2,"Technology, Advertising, Media, and Information",Seattle,18534.0,18534.0
+2018,2,"Technology, Advertising, Media, and Information",South Bay/San Jose,1423393.0,158154.77777777778
+2018,2,"Technology, Advertising, Media, and Information",South Florida,90763.0,30254.333333333332
+2018,2,"Technology, Advertising, Media, and Information",Washington D.C.,133273.0,33318.25
+2018,3,Financial Services and Insurance,Atlanta,324184.0,54030.666666666664
+2018,3,Financial Services and Insurance,Austin,22328.0,22328.0
+2018,3,Financial Services and Insurance,Boston,76000.0,76000.0
+2018,3,Financial Services and Insurance,Chicago,329947.0,82486.75
+2018,3,Financial Services and Insurance,Chicago Suburbs,97797.0,24449.25
+2018,3,Financial Services and Insurance,Dallas/Ft Worth,84422.0,28140.666666666668
+2018,3,Financial Services and Insurance,Denver,12250.0,12250.0
+2018,3,Financial Services and Insurance,Houston,252110.0,63027.5
+2018,3,Financial Services and Insurance,Los Angeles,169320.0,169320.0
+2018,3,Financial Services and Insurance,Manhattan,1600675.0,59284.25925925926
+2018,3,Financial Services and Insurance,Northern New Jersey,297415.0,74353.75
+2018,3,Financial Services and Insurance,Northern Virginia,82311.0,27437.0
+2018,3,Financial Services and Insurance,Orange County,83588.0,41794.0
+2018,3,Financial Services and Insurance,Philadelphia,419438.0,69906.33333333333
+2018,3,Financial Services and Insurance,Phoenix,21535.0,21535.0
+2018,3,Financial Services and Insurance,Raleigh/Durham,115477.0,57738.5
+2018,3,Financial Services and Insurance,San Diego,95936.0,95936.0
+2018,3,Financial Services and Insurance,San Francisco,192138.0,48034.5
+2018,3,Financial Services and Insurance,South Florida,175419.0,35083.8
+2018,3,Financial Services and Insurance,Southern Maryland,84000.0,42000.0
+2018,3,Financial Services and Insurance,Tampa,99727.0,33242.333333333336
+2018,3,Financial Services and Insurance,Washington D.C.,55878.0,18626.0
+2018,3,Legal Services,Baltimore,23500.0,23500.0
+2018,3,Legal Services,Boston,144260.0,72130.0
+2018,3,Legal Services,Chicago,110259.0,36753.0
+2018,3,Legal Services,Dallas/Ft Worth,27276.0,27276.0
+2018,3,Legal Services,Denver,10168.0,10168.0
+2018,3,Legal Services,Houston,236457.0,78819.0
+2018,3,Legal Services,Los Angeles,23692.0,23692.0
+2018,3,Legal Services,Manhattan,380375.0,34579.545454545456
+2018,3,Legal Services,Northern Virginia,14288.0,14288.0
+2018,3,Legal Services,Philadelphia,27386.0,27386.0
+2018,3,Legal Services,San Diego,53000.0,53000.0
+2018,3,Legal Services,South Florida,11500.0,11500.0
+2018,3,Legal Services,Southern Maryland,24000.0,24000.0
+2018,3,Legal Services,Washington D.C.,216606.0,43321.2
+2018,3,"Technology, Advertising, Media, and Information",Atlanta,136621.0,34155.25
+2018,3,"Technology, Advertising, Media, and Information",Austin,320102.0,320102.0
+2018,3,"Technology, Advertising, Media, and Information",Baltimore,62645.0,31322.5
+2018,3,"Technology, Advertising, Media, and Information",Boston,440000.0,440000.0
+2018,3,"Technology, Advertising, Media, and Information",Chicago,325742.0,81435.5
+2018,3,"Technology, Advertising, Media, and Information",Chicago Suburbs,33237.0,33237.0
+2018,3,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,466131.0,93226.2
+2018,3,"Technology, Advertising, Media, and Information",Denver,143383.0,47794.333333333336
+2018,3,"Technology, Advertising, Media, and Information",Houston,29038.0,14519.0
+2018,3,"Technology, Advertising, Media, and Information",Los Angeles,268926.0,67231.5
+2018,3,"Technology, Advertising, Media, and Information",Manhattan,624754.0,27163.217391304348
+2018,3,"Technology, Advertising, Media, and Information",Northern New Jersey,51097.0,25548.5
+2018,3,"Technology, Advertising, Media, and Information",Northern Virginia,46863.0,23431.5
+2018,3,"Technology, Advertising, Media, and Information",Orange County,49056.0,24528.0
+2018,3,"Technology, Advertising, Media, and Information",Philadelphia,214263.0,107131.5
+2018,3,"Technology, Advertising, Media, and Information",Phoenix,21344.0,21344.0
+2018,3,"Technology, Advertising, Media, and Information",Raleigh/Durham,85130.0,21282.5
+2018,3,"Technology, Advertising, Media, and Information",San Francisco,695330.0,77258.88888888889
+2018,3,"Technology, Advertising, Media, and Information",Seattle,577174.0,115434.8
+2018,3,"Technology, Advertising, Media, and Information",South Bay/San Jose,1366908.0,124264.36363636363
+2018,3,"Technology, Advertising, Media, and Information",Southern Maryland,148542.0,49514.0
+2018,3,"Technology, Advertising, Media, and Information",Tampa,23267.0,23267.0
+2018,3,"Technology, Advertising, Media, and Information",Washington D.C.,87286.0,21821.5
+2018,4,Financial Services and Insurance,Atlanta,132917.0,44305.666666666664
+2018,4,Financial Services and Insurance,Austin,22328.0,22328.0
+2018,4,Financial Services and Insurance,Baltimore,71378.0,35689.0
+2018,4,Financial Services and Insurance,Charlotte,139999.0,139999.0
+2018,4,Financial Services and Insurance,Chicago,697132.0,116188.66666666667
+2018,4,Financial Services and Insurance,Chicago Suburbs,109124.0,54562.0
+2018,4,Financial Services and Insurance,Dallas/Ft Worth,124475.0,31118.75
+2018,4,Financial Services and Insurance,Denver,41260.0,41260.0
+2018,4,Financial Services and Insurance,Houston,204000.0,204000.0
+2018,4,Financial Services and Insurance,Los Angeles,173773.0,57924.333333333336
+2018,4,Financial Services and Insurance,Manhattan,2856132.0,77192.75675675676
+2018,4,Financial Services and Insurance,Northern New Jersey,410002.0,102500.5
+2018,4,Financial Services and Insurance,Northern Virginia,884081.0,147346.83333333334
+2018,4,Financial Services and Insurance,Orange County,26312.0,26312.0
+2018,4,Financial Services and Insurance,Philadelphia,91985.0,45992.5
+2018,4,Financial Services and Insurance,Phoenix,95081.0,31693.666666666668
+2018,4,Financial Services and Insurance,Raleigh/Durham,16838.0,16838.0
+2018,4,Financial Services and Insurance,San Francisco,115156.0,38385.333333333336
+2018,4,Financial Services and Insurance,South Florida,326011.0,40751.375
+2018,4,Financial Services and Insurance,Southern Maryland,29612.0,14806.0
+2018,4,Financial Services and Insurance,Tampa,61598.0,61598.0
+2018,4,Financial Services and Insurance,Washington D.C.,14792.0,14792.0
+2018,4,Legal Services,Atlanta,102320.0,102320.0
+2018,4,Legal Services,Boston,60000.0,60000.0
+2018,4,Legal Services,Chicago,258499.0,51699.8
+2018,4,Legal Services,Dallas/Ft Worth,39000.0,39000.0
+2018,4,Legal Services,Houston,90961.0,45480.5
+2018,4,Legal Services,Manhattan,547928.0,45660.666666666664
+2018,4,Legal Services,Northern Virginia,54173.0,27086.5
+2018,4,Legal Services,Seattle,46000.0,46000.0
+2018,4,Legal Services,Southern Maryland,44305.0,22152.5
+2018,4,Legal Services,Tampa,81161.0,27053.666666666668
+2018,4,Legal Services,Washington D.C.,930737.0,103415.22222222222
+2018,4,"Technology, Advertising, Media, and Information",Atlanta,209644.0,52411.0
+2018,4,"Technology, Advertising, Media, and Information",Austin,120533.0,40177.666666666664
+2018,4,"Technology, Advertising, Media, and Information",Charlotte,20787.0,20787.0
+2018,4,"Technology, Advertising, Media, and Information",Chicago,1144739.0,143092.375
+2018,4,"Technology, Advertising, Media, and Information",Chicago Suburbs,48111.0,48111.0
+2018,4,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,217386.0,54346.5
+2018,4,"Technology, Advertising, Media, and Information",Houston,566000.0,283000.0
+2018,4,"Technology, Advertising, Media, and Information",Los Angeles,1151240.0,127915.55555555556
+2018,4,"Technology, Advertising, Media, and Information",Manhattan,2191673.0,73055.76666666666
+2018,4,"Technology, Advertising, Media, and Information",Northern New Jersey,64623.0,32311.5
+2018,4,"Technology, Advertising, Media, and Information",Northern Virginia,355164.0,39462.666666666664
+2018,4,"Technology, Advertising, Media, and Information",Orange County,87440.0,29146.666666666668
+2018,4,"Technology, Advertising, Media, and Information",Phoenix,51270.0,51270.0
+2018,4,"Technology, Advertising, Media, and Information",Raleigh/Durham,85335.0,28445.0
+2018,4,"Technology, Advertising, Media, and Information",San Francisco,768171.0,128028.5
+2018,4,"Technology, Advertising, Media, and Information",Seattle,335568.0,67113.6
+2018,4,"Technology, Advertising, Media, and Information",South Bay/San Jose,649628.0,72180.88888888889
+2018,4,"Technology, Advertising, Media, and Information",South Florida,78681.0,26227.0
+2018,4,"Technology, Advertising, Media, and Information",Tampa,75448.0,37724.0
+2019,1,Financial Services and Insurance,Atlanta,89637.0,29879.0
+2019,1,Financial Services and Insurance,Baltimore,115100.0,115100.0
+2019,1,Financial Services and Insurance,Boston,55688.0,55688.0
+2019,1,Financial Services and Insurance,Charlotte,384308.0,128102.66666666667
+2019,1,Financial Services and Insurance,Chicago,249881.0,62470.25
+2019,1,Financial Services and Insurance,Chicago Suburbs,193938.0,64646.0
+2019,1,Financial Services and Insurance,Dallas/Ft Worth,96172.0,48086.0
+2019,1,Financial Services and Insurance,Denver,128815.0,18402.14285714286
+2019,1,Financial Services and Insurance,Houston,69448.0,69448.0
+2019,1,Financial Services and Insurance,Los Angeles,356346.0,59391.0
+2019,1,Financial Services and Insurance,Manhattan,1239324.0,42735.31034482759
+2019,1,Financial Services and Insurance,Nashville,14782.0,14782.0
+2019,1,Financial Services and Insurance,Northern New Jersey,414999.0,414999.0
+2019,1,Financial Services and Insurance,Northern Virginia,109512.0,36504.0
+2019,1,Financial Services and Insurance,Philadelphia,154112.0,38528.0
+2019,1,Financial Services and Insurance,Phoenix,194567.0,64855.666666666664
+2019,1,Financial Services and Insurance,Raleigh/Durham,19407.0,19407.0
+2019,1,Financial Services and Insurance,San Diego,28276.0,28276.0
+2019,1,Financial Services and Insurance,South Bay/San Jose,13237.0,13237.0
+2019,1,Financial Services and Insurance,Southern Maryland,154833.0,51611.0
+2019,1,Financial Services and Insurance,Tampa,32603.0,32603.0
+2019,1,Legal Services,Austin,12746.0,12746.0
+2019,1,Legal Services,Chicago,108264.0,54132.0
+2019,1,Legal Services,Dallas/Ft Worth,56340.0,56340.0
+2019,1,Legal Services,Denver,53149.0,13287.25
+2019,1,Legal Services,Houston,257203.0,51440.6
+2019,1,Legal Services,Los Angeles,45133.0,22566.5
+2019,1,Legal Services,Manhattan,547375.0,109475.0
+2019,1,Legal Services,Nashville,10691.0,10691.0
+2019,1,Legal Services,Northern New Jersey,34373.0,34373.0
+2019,1,Legal Services,Northern Virginia,34059.0,17029.5
+2019,1,Legal Services,Orange County,22127.0,22127.0
+2019,1,Legal Services,Raleigh/Durham,62539.0,31269.5
+2019,1,Legal Services,San Diego,20510.0,20510.0
+2019,1,Legal Services,San Francisco,127640.0,127640.0
+2019,1,Legal Services,Seattle,10000.0,10000.0
+2019,1,Legal Services,South Bay/San Jose,17403.0,17403.0
+2019,1,Legal Services,South Florida,100828.0,25207.0
+2019,1,Legal Services,Southern Maryland,42406.0,42406.0
+2019,1,Legal Services,Tampa,57978.0,28989.0
+2019,1,Legal Services,Washington D.C.,259275.0,43212.5
+2019,1,"Technology, Advertising, Media, and Information",Atlanta,316039.0,63207.8
+2019,1,"Technology, Advertising, Media, and Information",Austin,1316110.0,188015.7142857143
+2019,1,"Technology, Advertising, Media, and Information",Boston,686376.0,114396.0
+2019,1,"Technology, Advertising, Media, and Information",Charlotte,74431.0,37215.5
+2019,1,"Technology, Advertising, Media, and Information",Chicago,338198.0,67639.6
+2019,1,"Technology, Advertising, Media, and Information",Chicago Suburbs,25763.0,25763.0
+2019,1,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,299018.0,49836.333333333336
+2019,1,"Technology, Advertising, Media, and Information",Denver,198000.0,66000.0
+2019,1,"Technology, Advertising, Media, and Information",Houston,10943.0,10943.0
+2019,1,"Technology, Advertising, Media, and Information",Los Angeles,839885.0,139980.83333333334
+2019,1,"Technology, Advertising, Media, and Information",Manhattan,990803.0,34165.620689655174
+2019,1,"Technology, Advertising, Media, and Information",Northern New Jersey,99162.0,33054.0
+2019,1,"Technology, Advertising, Media, and Information",Northern Virginia,424404.0,32646.46153846154
+2019,1,"Technology, Advertising, Media, and Information",Orange County,153143.0,51047.666666666664
+2019,1,"Technology, Advertising, Media, and Information",Phoenix,38029.0,38029.0
+2019,1,"Technology, Advertising, Media, and Information",Raleigh/Durham,71947.0,23982.333333333332
+2019,1,"Technology, Advertising, Media, and Information",San Diego,96543.0,96543.0
+2019,1,"Technology, Advertising, Media, and Information",San Francisco,973389.0,243347.25
+2019,1,"Technology, Advertising, Media, and Information",Seattle,541037.0,108207.4
+2019,1,"Technology, Advertising, Media, and Information",South Bay/San Jose,597902.0,66433.55555555556
+2019,1,"Technology, Advertising, Media, and Information",South Florida,61252.0,20417.333333333332
+2019,1,"Technology, Advertising, Media, and Information",Southern Maryland,37363.0,18681.5
+2019,1,"Technology, Advertising, Media, and Information",Tampa,20460.0,20460.0
+2019,1,"Technology, Advertising, Media, and Information",Washington D.C.,117739.0,19623.166666666668
+2019,2,Financial Services and Insurance,Atlanta,122045.0,30511.25
+2019,2,Financial Services and Insurance,Austin,187362.0,62454.0
+2019,2,Financial Services and Insurance,Baltimore,26349.0,26349.0
+2019,2,Financial Services and Insurance,Boston,747841.0,149568.2
+2019,2,Financial Services and Insurance,Charlotte,695730.0,231910.0
+2019,2,Financial Services and Insurance,Chicago,290230.0,58046.0
+2019,2,Financial Services and Insurance,Chicago Suburbs,70903.0,35451.5
+2019,2,Financial Services and Insurance,Dallas/Ft Worth,712698.0,118783.0
+2019,2,Financial Services and Insurance,Denver,82272.0,27424.0
+2019,2,Financial Services and Insurance,Houston,263759.0,52751.8
+2019,2,Financial Services and Insurance,Manhattan,2779365.0,77204.58333333333
+2019,2,Financial Services and Insurance,Nashville,32700.0,32700.0
+2019,2,Financial Services and Insurance,Northern New Jersey,32095.0,16047.5
+2019,2,Financial Services and Insurance,Northern Virginia,323204.0,64640.8
+2019,2,Financial Services and Insurance,Orange County,168931.0,84465.5
+2019,2,Financial Services and Insurance,Philadelphia,363508.0,72701.6
+2019,2,Financial Services and Insurance,Phoenix,68667.0,68667.0
+2019,2,Financial Services and Insurance,Raleigh/Durham,22731.0,22731.0
+2019,2,Financial Services and Insurance,Salt Lake City,17126.0,17126.0
+2019,2,Financial Services and Insurance,San Diego,16700.0,16700.0
+2019,2,Financial Services and Insurance,San Francisco,357817.0,89454.25
+2019,2,Financial Services and Insurance,Seattle,21022.0,21022.0
+2019,2,Financial Services and Insurance,South Florida,56957.0,18985.666666666668
+2019,2,Financial Services and Insurance,Southern Maryland,17500.0,17500.0
+2019,2,Financial Services and Insurance,Tampa,28227.0,14113.5
+2019,2,Financial Services and Insurance,Washington D.C.,17862.0,17862.0
+2019,2,Legal Services,Atlanta,153629.0,51209.666666666664
+2019,2,Legal Services,Austin,153387.0,38346.75
+2019,2,Legal Services,Boston,192964.0,192964.0
+2019,2,Legal Services,Charlotte,96024.0,48012.0
+2019,2,Legal Services,Chicago,251010.0,50202.0
+2019,2,Legal Services,Dallas/Ft Worth,45000.0,45000.0
+2019,2,Legal Services,Denver,76929.0,19232.25
+2019,2,Legal Services,Houston,212587.0,42517.4
+2019,2,Legal Services,Los Angeles,83199.0,83199.0
+2019,2,Legal Services,Manhattan,523486.0,40268.153846153844
+2019,2,Legal Services,Northern New Jersey,73904.0,36952.0
+2019,2,Legal Services,Northern Virginia,63084.0,21028.0
+2019,2,Legal Services,Orange County,77084.0,77084.0
+2019,2,Legal Services,Philadelphia,20000.0,20000.0
+2019,2,Legal Services,Raleigh/Durham,59563.0,29781.5
+2019,2,Legal Services,San Francisco,67244.0,67244.0
+2019,2,Legal Services,South Florida,22400.0,22400.0
+2019,2,Legal Services,Tampa,11146.0,11146.0
+2019,2,Legal Services,Washington D.C.,204878.0,40975.6
+2019,2,"Technology, Advertising, Media, and Information",Atlanta,186418.0,46604.5
+2019,2,"Technology, Advertising, Media, and Information",Austin,41508.0,20754.0
+2019,2,"Technology, Advertising, Media, and Information",Baltimore,33155.0,16577.5
+2019,2,"Technology, Advertising, Media, and Information",Boston,367729.0,73545.8
+2019,2,"Technology, Advertising, Media, and Information",Charlotte,61687.0,20562.333333333332
+2019,2,"Technology, Advertising, Media, and Information",Chicago,177432.0,44358.0
+2019,2,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,456732.0,228366.0
+2019,2,"Technology, Advertising, Media, and Information",Denver,86823.0,21705.75
+2019,2,"Technology, Advertising, Media, and Information",Houston,69074.0,23024.666666666668
+2019,2,"Technology, Advertising, Media, and Information",Los Angeles,1896985.0,135498.92857142858
+2019,2,"Technology, Advertising, Media, and Information",Manhattan,3415295.0,113843.16666666667
+2019,2,"Technology, Advertising, Media, and Information",Nashville,193671.0,193671.0
+2019,2,"Technology, Advertising, Media, and Information",Northern New Jersey,19206.0,19206.0
+2019,2,"Technology, Advertising, Media, and Information",Northern Virginia,959548.0,53308.22222222222
+2019,2,"Technology, Advertising, Media, and Information",Orange County,254718.0,50943.6
+2019,2,"Technology, Advertising, Media, and Information",Philadelphia,104703.0,26175.75
+2019,2,"Technology, Advertising, Media, and Information",Phoenix,99085.0,24771.25
+2019,2,"Technology, Advertising, Media, and Information",Raleigh/Durham,137784.0,68892.0
+2019,2,"Technology, Advertising, Media, and Information",Salt Lake City,17493.0,17493.0
+2019,2,"Technology, Advertising, Media, and Information",San Diego,132060.0,44020.0
+2019,2,"Technology, Advertising, Media, and Information",San Francisco,689404.0,114900.66666666667
+2019,2,"Technology, Advertising, Media, and Information",Seattle,1637031.0,233861.57142857142
+2019,2,"Technology, Advertising, Media, and Information",South Bay/San Jose,997782.0,71270.14285714286
+2019,2,"Technology, Advertising, Media, and Information",South Florida,226514.0,37752.333333333336
+2019,2,"Technology, Advertising, Media, and Information",Southern Maryland,177077.0,44269.25
+2019,2,"Technology, Advertising, Media, and Information",Tampa,31087.0,31087.0
+2019,2,"Technology, Advertising, Media, and Information",Washington D.C.,131809.0,32952.25
+2019,3,Financial Services and Insurance,Atlanta,619170.0,68796.66666666667
+2019,3,Financial Services and Insurance,Austin,61656.0,20552.0
+2019,3,Financial Services and Insurance,Baltimore,176862.0,58954.0
+2019,3,Financial Services and Insurance,Boston,59336.0,29668.0
+2019,3,Financial Services and Insurance,Charlotte,81415.0,40707.5
+2019,3,Financial Services and Insurance,Chicago,389413.0,129804.33333333333
+2019,3,Financial Services and Insurance,Chicago Suburbs,90000.0,90000.0
+2019,3,Financial Services and Insurance,Dallas/Ft Worth,100000.0,100000.0
+2019,3,Financial Services and Insurance,Denver,44477.0,22238.5
+2019,3,Financial Services and Insurance,Detroit,76538.0,38269.0
+2019,3,Financial Services and Insurance,Houston,20169.0,20169.0
+2019,3,Financial Services and Insurance,Los Angeles,75751.0,37875.5
+2019,3,Financial Services and Insurance,Manhattan,651870.0,32593.5
+2019,3,Financial Services and Insurance,Northern New Jersey,515264.0,171754.66666666666
+2019,3,Financial Services and Insurance,Northern Virginia,37358.0,18679.0
+2019,3,Financial Services and Insurance,Orange County,107619.0,35873.0
+2019,3,Financial Services and Insurance,Philadelphia,68986.0,17246.5
+2019,3,Financial Services and Insurance,Phoenix,275614.0,45935.666666666664
+2019,3,Financial Services and Insurance,San Diego,43441.0,21720.5
+2019,3,Financial Services and Insurance,San Francisco,198036.0,66012.0
+2019,3,Financial Services and Insurance,South Bay/San Jose,54910.0,54910.0
+2019,3,Financial Services and Insurance,South Florida,114519.0,38173.0
+2019,3,Financial Services and Insurance,Southern Maryland,73281.0,24427.0
+2019,3,Financial Services and Insurance,Tampa,181787.0,60595.666666666664
+2019,3,Financial Services and Insurance,Washington D.C.,100153.0,33384.333333333336
+2019,3,Legal Services,Atlanta,69418.0,23139.333333333332
+2019,3,Legal Services,Austin,46369.0,23184.5
+2019,3,Legal Services,Baltimore,21413.0,21413.0
+2019,3,Legal Services,Boston,44596.0,22298.0
+2019,3,Legal Services,Chicago,204737.0,68245.66666666667
+2019,3,Legal Services,Dallas/Ft Worth,97629.0,32543.0
+2019,3,Legal Services,Denver,39275.0,19637.5
+2019,3,Legal Services,Detroit,16555.0,16555.0
+2019,3,Legal Services,Houston,63257.0,31628.5
+2019,3,Legal Services,Los Angeles,247655.0,123827.5
+2019,3,Legal Services,Manhattan,738158.0,105451.14285714286
+2019,3,Legal Services,Northern Virginia,101574.0,33858.0
+2019,3,Legal Services,Orange County,17652.0,17652.0
+2019,3,Legal Services,San Diego,148059.0,74029.5
+2019,3,Legal Services,San Francisco,15165.0,15165.0
+2019,3,Legal Services,South Florida,12366.0,12366.0
+2019,3,Legal Services,Washington D.C.,150242.0,21463.14285714286
+2019,3,"Technology, Advertising, Media, and Information",Atlanta,429639.0,71606.5
+2019,3,"Technology, Advertising, Media, and Information",Austin,206247.0,41249.4
+2019,3,"Technology, Advertising, Media, and Information",Baltimore,44523.0,44523.0
+2019,3,"Technology, Advertising, Media, and Information",Boston,299005.0,99668.33333333333
+2019,3,"Technology, Advertising, Media, and Information",Charlotte,167859.0,41964.75
+2019,3,"Technology, Advertising, Media, and Information",Chicago,610930.0,122186.0
+2019,3,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,215471.0,71823.66666666667
+2019,3,"Technology, Advertising, Media, and Information",Denver,407456.0,45272.88888888889
+2019,3,"Technology, Advertising, Media, and Information",Detroit,100000.0,100000.0
+2019,3,"Technology, Advertising, Media, and Information",Houston,89406.0,44703.0
+2019,3,"Technology, Advertising, Media, and Information",Los Angeles,630074.0,52506.166666666664
+2019,3,"Technology, Advertising, Media, and Information",Manhattan,2989818.0,114993.0
+2019,3,"Technology, Advertising, Media, and Information",Nashville,748650.0,748650.0
+2019,3,"Technology, Advertising, Media, and Information",Northern New Jersey,170227.0,42556.75
+2019,3,"Technology, Advertising, Media, and Information",Northern Virginia,667844.0,74204.88888888889
+2019,3,"Technology, Advertising, Media, and Information",Orange County,61200.0,30600.0
+2019,3,"Technology, Advertising, Media, and Information",Philadelphia,348221.0,87055.25
+2019,3,"Technology, Advertising, Media, and Information",Phoenix,450108.0,90021.6
+2019,3,"Technology, Advertising, Media, and Information",Raleigh/Durham,145597.0,36399.25
+2019,3,"Technology, Advertising, Media, and Information",San Diego,119865.0,39955.0
+2019,3,"Technology, Advertising, Media, and Information",San Francisco,503745.0,71963.57142857143
+2019,3,"Technology, Advertising, Media, and Information",Seattle,535844.0,133961.0
+2019,3,"Technology, Advertising, Media, and Information",South Bay/San Jose,238158.0,79386.0
+2019,3,"Technology, Advertising, Media, and Information",South Florida,20000.0,20000.0
+2019,3,"Technology, Advertising, Media, and Information",Southern Maryland,11056.0,11056.0
+2019,3,"Technology, Advertising, Media, and Information",Washington D.C.,71654.0,23884.666666666668
+2019,4,Financial Services and Insurance,Atlanta,60637.0,30318.5
+2019,4,Financial Services and Insurance,Austin,118453.0,59226.5
+2019,4,Financial Services and Insurance,Baltimore,73123.0,36561.5
+2019,4,Financial Services and Insurance,Boston,70220.0,70220.0
+2019,4,Financial Services and Insurance,Charlotte,62688.0,31344.0
+2019,4,Financial Services and Insurance,Chicago,31719.0,31719.0
+2019,4,Financial Services and Insurance,Chicago Suburbs,20787.0,20787.0
+2019,4,Financial Services and Insurance,Dallas/Ft Worth,135089.0,27017.8
+2019,4,Financial Services and Insurance,Denver,67586.0,22528.666666666668
+2019,4,Financial Services and Insurance,Detroit,15199.0,15199.0
+2019,4,Financial Services and Insurance,Houston,161547.0,80773.5
+2019,4,Financial Services and Insurance,Los Angeles,46000.0,46000.0
+2019,4,Financial Services and Insurance,Manhattan,2422199.0,110099.95454545454
+2019,4,Financial Services and Insurance,Nashville,17202.0,17202.0
+2019,4,Financial Services and Insurance,Northern New Jersey,540885.0,270442.5
+2019,4,Financial Services and Insurance,Northern Virginia,38587.0,19293.5
+2019,4,Financial Services and Insurance,Philadelphia,253943.0,23085.727272727272
+2019,4,Financial Services and Insurance,Phoenix,140238.0,28047.6
+2019,4,Financial Services and Insurance,Raleigh/Durham,144551.0,48183.666666666664
+2019,4,Financial Services and Insurance,Salt Lake City,12194.0,12194.0
+2019,4,Financial Services and Insurance,San Diego,10197.0,10197.0
+2019,4,Financial Services and Insurance,San Francisco,346341.0,115447.0
+2019,4,Financial Services and Insurance,Seattle,115000.0,115000.0
+2019,4,Financial Services and Insurance,South Bay/San Jose,177835.0,44458.75
+2019,4,Financial Services and Insurance,South Florida,15403.0,15403.0
+2019,4,Financial Services and Insurance,Southern Maryland,49480.0,24740.0
+2019,4,Financial Services and Insurance,Tampa,112017.0,37339.0
+2019,4,Financial Services and Insurance,Washington D.C.,198736.0,66245.33333333333
+2019,4,Legal Services,Atlanta,24853.0,24853.0
+2019,4,Legal Services,Boston,57688.0,57688.0
+2019,4,Legal Services,Charlotte,95837.0,47918.5
+2019,4,Legal Services,Chicago,139206.0,46402.0
+2019,4,Legal Services,Dallas/Ft Worth,41516.0,20758.0
+2019,4,Legal Services,Denver,45837.0,22918.5
+2019,4,Legal Services,Detroit,52968.0,52968.0
+2019,4,Legal Services,Houston,114664.0,22932.8
+2019,4,Legal Services,Manhattan,1388048.0,154227.55555555556
+2019,4,Legal Services,Northern Virginia,42030.0,42030.0
+2019,4,Legal Services,Philadelphia,437707.0,72951.16666666667
+2019,4,Legal Services,Phoenix,40167.0,20083.5
+2019,4,Legal Services,San Diego,36704.0,36704.0
+2019,4,Legal Services,San Francisco,133266.0,33316.5
+2019,4,Legal Services,South Bay/San Jose,11000.0,11000.0
+2019,4,Legal Services,Washington D.C.,307280.0,51213.333333333336
+2019,4,"Technology, Advertising, Media, and Information",Atlanta,267151.0,38164.42857142857
+2019,4,"Technology, Advertising, Media, and Information",Austin,99941.0,33313.666666666664
+2019,4,"Technology, Advertising, Media, and Information",Baltimore,33000.0,16500.0
+2019,4,"Technology, Advertising, Media, and Information",Boston,453983.0,113495.75
+2019,4,"Technology, Advertising, Media, and Information",Chicago,270226.0,54045.2
+2019,4,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,118052.0,39350.666666666664
+2019,4,"Technology, Advertising, Media, and Information",Denver,234884.0,39147.333333333336
+2019,4,"Technology, Advertising, Media, and Information",Detroit,47516.0,23758.0
+2019,4,"Technology, Advertising, Media, and Information",Houston,115687.0,38562.333333333336
+2019,4,"Technology, Advertising, Media, and Information",Los Angeles,358640.0,44830.0
+2019,4,"Technology, Advertising, Media, and Information",Manhattan,3594357.0,156276.39130434784
+2019,4,"Technology, Advertising, Media, and Information",Northern New Jersey,30000.0,30000.0
+2019,4,"Technology, Advertising, Media, and Information",Northern Virginia,598586.0,54416.90909090909
+2019,4,"Technology, Advertising, Media, and Information",Orange County,235761.0,78587.0
+2019,4,"Technology, Advertising, Media, and Information",Philadelphia,96903.0,19380.6
+2019,4,"Technology, Advertising, Media, and Information",Phoenix,477676.0,238838.0
+2019,4,"Technology, Advertising, Media, and Information",Raleigh/Durham,101960.0,101960.0
+2019,4,"Technology, Advertising, Media, and Information",San Diego,26897.0,26897.0
+2019,4,"Technology, Advertising, Media, and Information",San Francisco,271759.0,54351.8
+2019,4,"Technology, Advertising, Media, and Information",Seattle,359757.0,89939.25
+2019,4,"Technology, Advertising, Media, and Information",South Bay/San Jose,616435.0,123287.0
+2019,4,"Technology, Advertising, Media, and Information",South Florida,30560.0,15280.0
+2019,4,"Technology, Advertising, Media, and Information",Tampa,188755.0,62918.333333333336
+2019,4,"Technology, Advertising, Media, and Information",Washington D.C.,204656.0,40931.2
+2020,1,Financial Services and Insurance,Atlanta,232482.0,33211.71428571428
+2020,1,Financial Services and Insurance,Austin,45255.0,45255.0
+2020,1,Financial Services and Insurance,Baltimore,11493.0,11493.0
+2020,1,Financial Services and Insurance,Boston,108185.0,108185.0
+2020,1,Financial Services and Insurance,Charlotte,156998.0,39249.5
+2020,1,Financial Services and Insurance,Chicago,590889.0,295444.5
+2020,1,Financial Services and Insurance,Chicago Suburbs,24132.0,24132.0
+2020,1,Financial Services and Insurance,Dallas/Ft Worth,197344.0,49336.0
+2020,1,Financial Services and Insurance,Denver,54711.0,27355.5
+2020,1,Financial Services and Insurance,Detroit,62170.0,31085.0
+2020,1,Financial Services and Insurance,Houston,56910.0,28455.0
+2020,1,Financial Services and Insurance,Los Angeles,196771.0,32795.166666666664
+2020,1,Financial Services and Insurance,Manhattan,1580079.0,37620.92857142857
+2020,1,Financial Services and Insurance,Northern New Jersey,151865.0,75932.5
+2020,1,Financial Services and Insurance,Northern Virginia,90869.0,15144.833333333334
+2020,1,Financial Services and Insurance,Orange County,70582.0,23527.333333333332
+2020,1,Financial Services and Insurance,Philadelphia,82138.0,20534.5
+2020,1,Financial Services and Insurance,Phoenix,131703.0,32925.75
+2020,1,Financial Services and Insurance,Raleigh/Durham,81810.0,81810.0
+2020,1,Financial Services and Insurance,Seattle,64215.0,64215.0
+2020,1,Financial Services and Insurance,South Florida,167060.0,55686.666666666664
+2020,1,Financial Services and Insurance,Southern Maryland,11109.0,11109.0
+2020,1,Financial Services and Insurance,Tampa,10198.0,10198.0
+2020,1,Financial Services and Insurance,Washington D.C.,68868.0,68868.0
+2020,1,Legal Services,Austin,14107.0,14107.0
+2020,1,Legal Services,Charlotte,64889.0,21629.666666666668
+2020,1,Legal Services,Chicago,254325.0,63581.25
+2020,1,Legal Services,Dallas/Ft Worth,111592.0,55796.0
+2020,1,Legal Services,Houston,44420.0,44420.0
+2020,1,Legal Services,Los Angeles,147006.0,49002.0
+2020,1,Legal Services,Manhattan,437193.0,39744.818181818184
+2020,1,Legal Services,Northern New Jersey,23563.0,23563.0
+2020,1,Legal Services,Northern Virginia,13746.0,13746.0
+2020,1,Legal Services,Philadelphia,184479.0,20497.666666666668
+2020,1,Legal Services,San Diego,24000.0,24000.0
+2020,1,Legal Services,South Bay/San Jose,62616.0,62616.0
+2020,1,Legal Services,South Florida,35338.0,17669.0
+2020,1,Legal Services,Tampa,20701.0,10350.5
+2020,1,Legal Services,Washington D.C.,334830.0,41853.75
+2020,1,"Technology, Advertising, Media, and Information",Atlanta,94970.0,23742.5
+2020,1,"Technology, Advertising, Media, and Information",Austin,391034.0,65172.333333333336
+2020,1,"Technology, Advertising, Media, and Information",Baltimore,69809.0,34904.5
+2020,1,"Technology, Advertising, Media, and Information",Boston,105265.0,52632.5
+2020,1,"Technology, Advertising, Media, and Information",Chicago,500028.0,62503.5
+2020,1,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,98215.0,32738.333333333332
+2020,1,"Technology, Advertising, Media, and Information",Denver,118995.0,29748.75
+2020,1,"Technology, Advertising, Media, and Information",Detroit,34287.0,34287.0
+2020,1,"Technology, Advertising, Media, and Information",Los Angeles,743768.0,53126.28571428572
+2020,1,"Technology, Advertising, Media, and Information",Manhattan,1498862.0,44084.17647058824
+2020,1,"Technology, Advertising, Media, and Information",Northern New Jersey,120059.0,40019.666666666664
+2020,1,"Technology, Advertising, Media, and Information",Northern Virginia,659120.0,43941.333333333336
+2020,1,"Technology, Advertising, Media, and Information",Orange County,43920.0,43920.0
+2020,1,"Technology, Advertising, Media, and Information",Philadelphia,157678.0,22525.428571428572
+2020,1,"Technology, Advertising, Media, and Information",Phoenix,227552.0,37925.333333333336
+2020,1,"Technology, Advertising, Media, and Information",San Diego,224120.0,32017.14285714286
+2020,1,"Technology, Advertising, Media, and Information",San Francisco,268651.0,38378.71428571428
+2020,1,"Technology, Advertising, Media, and Information",Seattle,605752.0,121150.4
+2020,1,"Technology, Advertising, Media, and Information",South Bay/San Jose,470463.0,94092.6
+2020,1,"Technology, Advertising, Media, and Information",Southern Maryland,148424.0,74212.0
+2020,1,"Technology, Advertising, Media, and Information",Tampa,19000.0,19000.0
+2020,1,"Technology, Advertising, Media, and Information",Washington D.C.,119757.0,17108.14285714286
+2020,2,Financial Services and Insurance,Atlanta,113647.0,22729.4
+2020,2,Financial Services and Insurance,Baltimore,12339.0,12339.0
+2020,2,Financial Services and Insurance,Charlotte,72390.0,24130.0
+2020,2,Financial Services and Insurance,Chicago,107234.0,35744.666666666664
+2020,2,Financial Services and Insurance,Chicago Suburbs,22852.0,22852.0
+2020,2,Financial Services and Insurance,Dallas/Ft Worth,105502.0,21100.4
+2020,2,Financial Services and Insurance,Denver,21840.0,21840.0
+2020,2,Financial Services and Insurance,Detroit,26467.0,13233.5
+2020,2,Financial Services and Insurance,Houston,60706.0,20235.333333333332
+2020,2,Financial Services and Insurance,Los Angeles,60332.0,30166.0
+2020,2,Financial Services and Insurance,Manhattan,761035.0,47564.6875
+2020,2,Financial Services and Insurance,Northern New Jersey,106702.0,26675.5
+2020,2,Financial Services and Insurance,Northern Virginia,46950.0,15650.0
+2020,2,Financial Services and Insurance,Orange County,85026.0,28342.0
+2020,2,Financial Services and Insurance,Philadelphia,73693.0,36846.5
+2020,2,Financial Services and Insurance,Phoenix,56420.0,28210.0
+2020,2,Financial Services and Insurance,Raleigh/Durham,13079.0,13079.0
+2020,2,Financial Services and Insurance,San Diego,32808.0,16404.0
+2020,2,Financial Services and Insurance,South Florida,78420.0,19605.0
+2020,2,Financial Services and Insurance,Southern Maryland,53865.0,26932.5
+2020,2,Financial Services and Insurance,Tampa,53886.0,53886.0
+2020,2,Financial Services and Insurance,Washington D.C.,26000.0,26000.0
+2020,2,Legal Services,Atlanta,48000.0,48000.0
+2020,2,Legal Services,Austin,118530.0,59265.0
+2020,2,Legal Services,Boston,36919.0,36919.0
+2020,2,Legal Services,Charlotte,72000.0,72000.0
+2020,2,Legal Services,Chicago,98500.0,24625.0
+2020,2,Legal Services,Dallas/Ft Worth,22249.0,22249.0
+2020,2,Legal Services,Denver,25323.0,25323.0
+2020,2,Legal Services,Houston,10300.0,10300.0
+2020,2,Legal Services,Los Angeles,180228.0,45057.0
+2020,2,Legal Services,Manhattan,227551.0,56887.75
+2020,2,Legal Services,Northern New Jersey,117300.0,117300.0
+2020,2,Legal Services,Northern Virginia,25944.0,25944.0
+2020,2,Legal Services,Orange County,41990.0,20995.0
+2020,2,Legal Services,Phoenix,18801.0,18801.0
+2020,2,Legal Services,San Diego,87671.0,43835.5
+2020,2,Legal Services,San Francisco,287477.0,143738.5
+2020,2,Legal Services,South Florida,18000.0,18000.0
+2020,2,Legal Services,Tampa,39276.0,19638.0
+2020,2,Legal Services,Washington D.C.,268916.0,53783.2
+2020,2,"Technology, Advertising, Media, and Information",Atlanta,620902.0,103483.66666666667
+2020,2,"Technology, Advertising, Media, and Information",Austin,109084.0,36361.333333333336
+2020,2,"Technology, Advertising, Media, and Information",Baltimore,10831.0,10831.0
+2020,2,"Technology, Advertising, Media, and Information",Boston,220406.0,44081.2
+2020,2,"Technology, Advertising, Media, and Information",Charlotte,64087.0,32043.5
+2020,2,"Technology, Advertising, Media, and Information",Chicago,85674.0,21418.5
+2020,2,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,105745.0,26436.25
+2020,2,"Technology, Advertising, Media, and Information",Denver,30637.0,15318.5
+2020,2,"Technology, Advertising, Media, and Information",Houston,81327.0,40663.5
+2020,2,"Technology, Advertising, Media, and Information",Los Angeles,200347.0,50086.75
+2020,2,"Technology, Advertising, Media, and Information",Manhattan,704283.0,41428.41176470588
+2020,2,"Technology, Advertising, Media, and Information",Northern New Jersey,141862.0,47287.333333333336
+2020,2,"Technology, Advertising, Media, and Information",Northern Virginia,818356.0,62950.46153846154
+2020,2,"Technology, Advertising, Media, and Information",Orange County,59763.0,14940.75
+2020,2,"Technology, Advertising, Media, and Information",Philadelphia,138721.0,34680.25
+2020,2,"Technology, Advertising, Media, and Information",Phoenix,13306.0,13306.0
+2020,2,"Technology, Advertising, Media, and Information",San Diego,116486.0,23297.2
+2020,2,"Technology, Advertising, Media, and Information",San Francisco,118719.0,39573.0
+2020,2,"Technology, Advertising, Media, and Information",Seattle,191144.0,31857.333333333332
+2020,2,"Technology, Advertising, Media, and Information",South Bay/San Jose,428928.0,85785.6
+2020,2,"Technology, Advertising, Media, and Information",South Florida,24458.0,24458.0
+2020,2,"Technology, Advertising, Media, and Information",Southern Maryland,78852.0,39426.0
+2020,2,"Technology, Advertising, Media, and Information",Washington D.C.,78038.0,39019.0
+2020,3,Financial Services and Insurance,Austin,52100.0,26050.0
+2020,3,Financial Services and Insurance,Boston,125222.0,31305.5
+2020,3,Financial Services and Insurance,Charlotte,113269.0,37756.333333333336
+2020,3,Financial Services and Insurance,Chicago,99780.0,19956.0
+2020,3,Financial Services and Insurance,Dallas/Ft Worth,223825.0,44765.0
+2020,3,Financial Services and Insurance,Denver,21300.0,21300.0
+2020,3,Financial Services and Insurance,Detroit,10388.0,10388.0
+2020,3,Financial Services and Insurance,Houston,252230.0,252230.0
+2020,3,Financial Services and Insurance,Los Angeles,75276.0,25092.0
+2020,3,Financial Services and Insurance,Manhattan,1157679.0,77178.6
+2020,3,Financial Services and Insurance,Northern New Jersey,505537.0,72219.57142857143
+2020,3,Financial Services and Insurance,Northern Virginia,35075.0,17537.5
+2020,3,Financial Services and Insurance,Orange County,328462.0,65692.4
+2020,3,Financial Services and Insurance,Philadelphia,99506.0,24876.5
+2020,3,Financial Services and Insurance,Phoenix,207624.0,41524.8
+2020,3,Financial Services and Insurance,Raleigh/Durham,19498.0,19498.0
+2020,3,Financial Services and Insurance,San Diego,30245.0,30245.0
+2020,3,Financial Services and Insurance,Seattle,37906.0,12635.333333333334
+2020,3,Financial Services and Insurance,South Florida,31701.0,15850.5
+2020,3,Financial Services and Insurance,Southern Maryland,27476.0,27476.0
+2020,3,Financial Services and Insurance,Tampa,201239.0,50309.75
+2020,3,Financial Services and Insurance,Washington D.C.,15588.0,15588.0
+2020,3,Legal Services,Atlanta,52510.0,52510.0
+2020,3,Legal Services,Austin,11308.0,11308.0
+2020,3,Legal Services,Baltimore,11641.0,11641.0
+2020,3,Legal Services,Boston,32606.0,32606.0
+2020,3,Legal Services,Chicago,135167.0,33791.75
+2020,3,Legal Services,Dallas/Ft Worth,79775.0,26591.666666666668
+2020,3,Legal Services,Houston,25641.0,12820.5
+2020,3,Legal Services,Los Angeles,25986.0,25986.0
+2020,3,Legal Services,Manhattan,624332.0,124866.4
+2020,3,Legal Services,Northern New Jersey,51806.0,51806.0
+2020,3,Legal Services,Philadelphia,10013.0,10013.0
+2020,3,Legal Services,San Diego,36665.0,36665.0
+2020,3,Legal Services,San Francisco,112305.0,112305.0
+2020,3,Legal Services,South Bay/San Jose,10108.0,10108.0
+2020,3,Legal Services,South Florida,122461.0,30615.25
+2020,3,Legal Services,Southern Maryland,23500.0,23500.0
+2020,3,Legal Services,Tampa,37500.0,37500.0
+2020,3,Legal Services,Washington D.C.,358592.0,51227.42857142857
+2020,3,"Technology, Advertising, Media, and Information",Atlanta,353010.0,176505.0
+2020,3,"Technology, Advertising, Media, and Information",Austin,204273.0,68091.0
+2020,3,"Technology, Advertising, Media, and Information",Baltimore,19031.0,19031.0
+2020,3,"Technology, Advertising, Media, and Information",Boston,228491.0,38081.833333333336
+2020,3,"Technology, Advertising, Media, and Information",Chicago,146491.0,73245.5
+2020,3,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,24126.0,24126.0
+2020,3,"Technology, Advertising, Media, and Information",Denver,75594.0,25198.0
+2020,3,"Technology, Advertising, Media, and Information",Houston,63872.0,31936.0
+2020,3,"Technology, Advertising, Media, and Information",Los Angeles,809777.0,80977.7
+2020,3,"Technology, Advertising, Media, and Information",Manhattan,1219391.0,135487.88888888888
+2020,3,"Technology, Advertising, Media, and Information",Northern New Jersey,194315.0,38863.0
+2020,3,"Technology, Advertising, Media, and Information",Northern Virginia,188367.0,23545.875
+2020,3,"Technology, Advertising, Media, and Information",Philadelphia,11500.0,11500.0
+2020,3,"Technology, Advertising, Media, and Information",Phoenix,42595.0,21297.5
+2020,3,"Technology, Advertising, Media, and Information",San Diego,19105.0,19105.0
+2020,3,"Technology, Advertising, Media, and Information",San Francisco,153057.0,51019.0
+2020,3,"Technology, Advertising, Media, and Information",Seattle,1638821.0,546273.6666666666
+2020,3,"Technology, Advertising, Media, and Information",South Florida,64159.0,21386.333333333332
+2020,3,"Technology, Advertising, Media, and Information",Southern Maryland,15510.0,15510.0
+2020,3,"Technology, Advertising, Media, and Information",Washington D.C.,182738.0,45684.5
+2020,4,Financial Services and Insurance,Atlanta,82282.0,41141.0
+2020,4,Financial Services and Insurance,Austin,51000.0,51000.0
+2020,4,Financial Services and Insurance,Boston,120947.0,60473.5
+2020,4,Financial Services and Insurance,Charlotte,68333.0,68333.0
+2020,4,Financial Services and Insurance,Chicago,113268.0,37756.0
+2020,4,Financial Services and Insurance,Dallas/Ft Worth,210596.0,70198.66666666667
+2020,4,Financial Services and Insurance,Denver,63915.0,31957.5
+2020,4,Financial Services and Insurance,Detroit,16525.0,16525.0
+2020,4,Financial Services and Insurance,Houston,133783.0,33445.75
+2020,4,Financial Services and Insurance,Los Angeles,246105.0,49221.0
+2020,4,Financial Services and Insurance,Manhattan,1213380.0,63862.10526315789
+2020,4,Financial Services and Insurance,Northern New Jersey,213754.0,35625.666666666664
+2020,4,Financial Services and Insurance,Northern Virginia,21136.0,21136.0
+2020,4,Financial Services and Insurance,Orange County,162188.0,40547.0
+2020,4,Financial Services and Insurance,Phoenix,23020.0,23020.0
+2020,4,Financial Services and Insurance,South Bay/San Jose,12564.0,12564.0
+2020,4,Financial Services and Insurance,South Florida,135738.0,22623.0
+2020,4,Financial Services and Insurance,Southern Maryland,166000.0,55333.333333333336
+2020,4,Financial Services and Insurance,Tampa,130194.0,32548.5
+2020,4,Financial Services and Insurance,Washington D.C.,35612.0,35612.0
+2020,4,Legal Services,Chicago,18814.0,18814.0
+2020,4,Legal Services,Dallas/Ft Worth,121448.0,30362.0
+2020,4,Legal Services,Denver,66344.0,33172.0
+2020,4,Legal Services,Houston,11073.0,11073.0
+2020,4,Legal Services,Los Angeles,207414.0,34569.0
+2020,4,Legal Services,Manhattan,211784.0,26473.0
+2020,4,Legal Services,Nashville,25692.0,25692.0
+2020,4,Legal Services,Northern Virginia,24537.0,12268.5
+2020,4,Legal Services,Orange County,21806.0,21806.0
+2020,4,Legal Services,Philadelphia,210402.0,105201.0
+2020,4,Legal Services,Phoenix,15497.0,15497.0
+2020,4,Legal Services,San Diego,12122.0,12122.0
+2020,4,Legal Services,South Bay/San Jose,36000.0,36000.0
+2020,4,Legal Services,Washington D.C.,329758.0,54959.666666666664
+2020,4,"Technology, Advertising, Media, and Information",Atlanta,12570.0,12570.0
+2020,4,"Technology, Advertising, Media, and Information",Austin,88787.0,88787.0
+2020,4,"Technology, Advertising, Media, and Information",Baltimore,16442.0,16442.0
+2020,4,"Technology, Advertising, Media, and Information",Boston,10675.0,10675.0
+2020,4,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,29070.0,29070.0
+2020,4,"Technology, Advertising, Media, and Information",Denver,129031.0,32257.75
+2020,4,"Technology, Advertising, Media, and Information",Detroit,124727.0,41575.666666666664
+2020,4,"Technology, Advertising, Media, and Information",Houston,15000.0,15000.0
+2020,4,"Technology, Advertising, Media, and Information",Los Angeles,214022.0,42804.4
+2020,4,"Technology, Advertising, Media, and Information",Manhattan,599311.0,46100.846153846156
+2020,4,"Technology, Advertising, Media, and Information",Northern New Jersey,27693.0,27693.0
+2020,4,"Technology, Advertising, Media, and Information",Northern Virginia,362115.0,45264.375
+2020,4,"Technology, Advertising, Media, and Information",Orange County,76504.0,25501.333333333332
+2020,4,"Technology, Advertising, Media, and Information",Philadelphia,60068.0,15017.0
+2020,4,"Technology, Advertising, Media, and Information",Phoenix,46735.0,46735.0
+2020,4,"Technology, Advertising, Media, and Information",Raleigh/Durham,92692.0,46346.0
+2020,4,"Technology, Advertising, Media, and Information",San Diego,205209.0,51302.25
+2020,4,"Technology, Advertising, Media, and Information",San Francisco,81786.0,40893.0
+2020,4,"Technology, Advertising, Media, and Information",Seattle,102503.0,34167.666666666664
+2020,4,"Technology, Advertising, Media, and Information",South Bay/San Jose,240480.0,80160.0
+2020,4,"Technology, Advertising, Media, and Information",Southern Maryland,14886.0,14886.0
+2020,4,"Technology, Advertising, Media, and Information",Tampa,20460.0,20460.0
+2020,4,"Technology, Advertising, Media, and Information",Washington D.C.,98643.0,32881.0
+2021,1,Financial Services and Insurance,Atlanta,65644.0,21881.333333333332
+2021,1,Financial Services and Insurance,Austin,141642.0,47214.0
+2021,1,Financial Services and Insurance,Boston,232953.0,232953.0
+2021,1,Financial Services and Insurance,Charlotte,55802.0,27901.0
+2021,1,Financial Services and Insurance,Chicago,31719.0,31719.0
+2021,1,Financial Services and Insurance,Chicago Suburbs,44750.0,22375.0
+2021,1,Financial Services and Insurance,Dallas/Ft Worth,214299.0,107149.5
+2021,1,Financial Services and Insurance,Denver,55207.0,13801.75
+2021,1,Financial Services and Insurance,Detroit,48656.0,16218.666666666666
+2021,1,Financial Services and Insurance,Houston,106582.0,35527.333333333336
+2021,1,Financial Services and Insurance,Los Angeles,26300.0,26300.0
+2021,1,Financial Services and Insurance,Manhattan,1004102.0,40164.08
+2021,1,Financial Services and Insurance,Northern New Jersey,137921.0,34480.25
+2021,1,Financial Services and Insurance,Northern Virginia,80511.0,26837.0
+2021,1,Financial Services and Insurance,Orange County,99323.0,19864.6
+2021,1,Financial Services and Insurance,Philadelphia,20964.0,20964.0
+2021,1,Financial Services and Insurance,Phoenix,183520.0,36704.0
+2021,1,Financial Services and Insurance,Raleigh/Durham,10326.0,10326.0
+2021,1,Financial Services and Insurance,San Diego,23729.0,23729.0
+2021,1,Financial Services and Insurance,San Francisco,113163.0,56581.5
+2021,1,Financial Services and Insurance,Seattle,17647.0,17647.0
+2021,1,Financial Services and Insurance,South Florida,18371.0,18371.0
+2021,1,Financial Services and Insurance,Tampa,145579.0,48526.333333333336
+2021,1,Financial Services and Insurance,Washington D.C.,37850.0,18925.0
+2021,1,Legal Services,Atlanta,20645.0,20645.0
+2021,1,Legal Services,Austin,50273.0,50273.0
+2021,1,Legal Services,Baltimore,41098.0,20549.0
+2021,1,Legal Services,Boston,100951.0,50475.5
+2021,1,Legal Services,Chicago,126491.0,42163.666666666664
+2021,1,Legal Services,Dallas/Ft Worth,15427.0,15427.0
+2021,1,Legal Services,Denver,114259.0,28564.75
+2021,1,Legal Services,Houston,213982.0,53495.5
+2021,1,Legal Services,Los Angeles,176350.0,44087.5
+2021,1,Legal Services,Manhattan,354723.0,35472.3
+2021,1,Legal Services,Northern New Jersey,20000.0,20000.0
+2021,1,Legal Services,Northern Virginia,50128.0,25064.0
+2021,1,Legal Services,Philadelphia,70987.0,23662.333333333332
+2021,1,Legal Services,San Francisco,15639.0,15639.0
+2021,1,Legal Services,Seattle,21012.0,10506.0
+2021,1,Legal Services,Tampa,26416.0,13208.0
+2021,1,Legal Services,Washington D.C.,65204.0,21734.666666666668
+2021,1,"Technology, Advertising, Media, and Information",Atlanta,300411.0,75102.75
+2021,1,"Technology, Advertising, Media, and Information",Austin,40000.0,40000.0
+2021,1,"Technology, Advertising, Media, and Information",Baltimore,16808.0,16808.0
+2021,1,"Technology, Advertising, Media, and Information",Boston,985953.0,140850.42857142858
+2021,1,"Technology, Advertising, Media, and Information",Chicago,127815.0,31953.75
+2021,1,"Technology, Advertising, Media, and Information",Chicago Suburbs,22510.0,11255.0
+2021,1,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,41958.0,41958.0
+2021,1,"Technology, Advertising, Media, and Information",Denver,117859.0,29464.75
+2021,1,"Technology, Advertising, Media, and Information",Houston,59759.0,19919.666666666668
+2021,1,"Technology, Advertising, Media, and Information",Los Angeles,107899.0,35966.333333333336
+2021,1,"Technology, Advertising, Media, and Information",Manhattan,339946.0,28328.833333333332
+2021,1,"Technology, Advertising, Media, and Information",Nashville,34600.0,34600.0
+2021,1,"Technology, Advertising, Media, and Information",Northern New Jersey,396211.0,56601.57142857143
+2021,1,"Technology, Advertising, Media, and Information",Northern Virginia,424879.0,38625.36363636364
+2021,1,"Technology, Advertising, Media, and Information",Orange County,285407.0,47567.833333333336
+2021,1,"Technology, Advertising, Media, and Information",Phoenix,68235.0,34117.5
+2021,1,"Technology, Advertising, Media, and Information",Raleigh/Durham,35240.0,17620.0
+2021,1,"Technology, Advertising, Media, and Information",San Diego,38346.0,19173.0
+2021,1,"Technology, Advertising, Media, and Information",Seattle,694288.0,138857.6
+2021,1,"Technology, Advertising, Media, and Information",South Bay/San Jose,76740.0,76740.0
+2021,1,"Technology, Advertising, Media, and Information",Southern Maryland,16061.0,16061.0
+2021,1,"Technology, Advertising, Media, and Information",Tampa,37817.0,37817.0
+2021,1,"Technology, Advertising, Media, and Information",Washington D.C.,28849.0,14424.5
+2021,2,Financial Services and Insurance,Atlanta,91555.0,30518.333333333332
+2021,2,Financial Services and Insurance,Austin,149333.0,37333.25
+2021,2,Financial Services and Insurance,Baltimore,110983.0,36994.333333333336
+2021,2,Financial Services and Insurance,Boston,134705.0,67352.5
+2021,2,Financial Services and Insurance,Charlotte,216154.0,43230.8
+2021,2,Financial Services and Insurance,Chicago,99523.0,24880.75
+2021,2,Financial Services and Insurance,Chicago Suburbs,61600.0,30800.0
+2021,2,Financial Services and Insurance,Dallas/Ft Worth,460300.0,57537.5
+2021,2,Financial Services and Insurance,Denver,79904.0,15980.8
+2021,2,Financial Services and Insurance,Houston,71266.0,35633.0
+2021,2,Financial Services and Insurance,Los Angeles,44813.0,22406.5
+2021,2,Financial Services and Insurance,Manhattan,734429.0,26229.60714285714
+2021,2,Financial Services and Insurance,Nashville,138000.0,138000.0
+2021,2,Financial Services and Insurance,Northern New Jersey,65078.0,21692.666666666668
+2021,2,Financial Services and Insurance,Northern Virginia,21291.0,21291.0
+2021,2,Financial Services and Insurance,Orange County,51915.0,51915.0
+2021,2,Financial Services and Insurance,Philadelphia,54726.0,54726.0
+2021,2,Financial Services and Insurance,Phoenix,87030.0,29010.0
+2021,2,Financial Services and Insurance,San Diego,82650.0,27550.0
+2021,2,Financial Services and Insurance,San Francisco,74534.0,18633.5
+2021,2,Financial Services and Insurance,Seattle,49868.0,24934.0
+2021,2,Financial Services and Insurance,South Florida,147554.0,36888.5
+2021,2,Financial Services and Insurance,Tampa,77222.0,38611.0
+2021,2,Financial Services and Insurance,Washington D.C.,40060.0,20030.0
+2021,2,Legal Services,Austin,88669.0,29556.333333333332
+2021,2,Legal Services,Baltimore,21420.0,21420.0
+2021,2,Legal Services,Chicago,133072.0,33268.0
+2021,2,Legal Services,Houston,11649.0,11649.0
+2021,2,Legal Services,Los Angeles,144499.0,72249.5
+2021,2,Legal Services,Manhattan,354177.0,50596.71428571428
+2021,2,Legal Services,Northern Virginia,21520.0,10760.0
+2021,2,Legal Services,Philadelphia,172082.0,34416.4
+2021,2,Legal Services,Phoenix,147192.0,49064.0
+2021,2,Legal Services,San Francisco,57222.0,28611.0
+2021,2,Legal Services,South Florida,16447.0,16447.0
+2021,2,Legal Services,Washington D.C.,104184.0,34728.0
+2021,2,"Technology, Advertising, Media, and Information",Atlanta,58247.0,19415.666666666668
+2021,2,"Technology, Advertising, Media, and Information",Austin,226449.0,56612.25
+2021,2,"Technology, Advertising, Media, and Information",Baltimore,56001.0,28000.5
+2021,2,"Technology, Advertising, Media, and Information",Boston,549154.0,68644.25
+2021,2,"Technology, Advertising, Media, and Information",Charlotte,13925.0,13925.0
+2021,2,"Technology, Advertising, Media, and Information",Chicago,108323.0,36107.666666666664
+2021,2,"Technology, Advertising, Media, and Information",Chicago Suburbs,16000.0,16000.0
+2021,2,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,59814.0,29907.0
+2021,2,"Technology, Advertising, Media, and Information",Denver,123159.0,41053.0
+2021,2,"Technology, Advertising, Media, and Information",Detroit,22500.0,22500.0
+2021,2,"Technology, Advertising, Media, and Information",Houston,26000.0,26000.0
+2021,2,"Technology, Advertising, Media, and Information",Los Angeles,791288.0,98911.0
+2021,2,"Technology, Advertising, Media, and Information",Manhattan,622532.0,28296.909090909092
+2021,2,"Technology, Advertising, Media, and Information",Northern New Jersey,228656.0,76218.66666666667
+2021,2,"Technology, Advertising, Media, and Information",Northern Virginia,179446.0,19938.444444444445
+2021,2,"Technology, Advertising, Media, and Information",Orange County,14809.0,14809.0
+2021,2,"Technology, Advertising, Media, and Information",Philadelphia,57923.0,28961.5
+2021,2,"Technology, Advertising, Media, and Information",Raleigh/Durham,96790.0,48395.0
+2021,2,"Technology, Advertising, Media, and Information",San Diego,241059.0,48211.8
+2021,2,"Technology, Advertising, Media, and Information",San Francisco,248538.0,62134.5
+2021,2,"Technology, Advertising, Media, and Information",Seattle,166140.0,33228.0
+2021,2,"Technology, Advertising, Media, and Information",South Bay/San Jose,804557.0,80455.7
+2021,2,"Technology, Advertising, Media, and Information",Southern Maryland,39526.0,19763.0
+2021,2,"Technology, Advertising, Media, and Information",Tampa,12938.0,12938.0
+2021,2,"Technology, Advertising, Media, and Information",Washington D.C.,154237.0,38559.25
+2021,3,Financial Services and Insurance,Atlanta,101998.0,25499.5
+2021,3,Financial Services and Insurance,Baltimore,31492.0,15746.0
+2021,3,Financial Services and Insurance,Boston,551351.0,275675.5
+2021,3,Financial Services and Insurance,Charlotte,219411.0,73137.0
+2021,3,Financial Services and Insurance,Chicago,70758.0,35379.0
+2021,3,Financial Services and Insurance,Chicago Suburbs,181281.0,45320.25
+2021,3,Financial Services and Insurance,Dallas/Ft Worth,287081.0,35885.125
+2021,3,Financial Services and Insurance,Denver,128964.0,42988.0
+2021,3,Financial Services and Insurance,Detroit,187746.0,46936.5
+2021,3,Financial Services and Insurance,Houston,47701.0,23850.5
+2021,3,Financial Services and Insurance,Los Angeles,263351.0,37621.57142857143
+2021,3,Financial Services and Insurance,Manhattan,1464158.0,36603.95
+2021,3,Financial Services and Insurance,Northern New Jersey,128332.0,42777.333333333336
+2021,3,Financial Services and Insurance,Northern Virginia,30092.0,15046.0
+2021,3,Financial Services and Insurance,Orange County,68908.0,34454.0
+2021,3,Financial Services and Insurance,Philadelphia,36289.0,18144.5
+2021,3,Financial Services and Insurance,Phoenix,72021.0,24007.0
+2021,3,Financial Services and Insurance,Raleigh/Durham,74413.0,24804.333333333332
+2021,3,Financial Services and Insurance,San Diego,71289.0,71289.0
+2021,3,Financial Services and Insurance,San Francisco,100944.0,33648.0
+2021,3,Financial Services and Insurance,Seattle,22189.0,22189.0
+2021,3,Financial Services and Insurance,Southern Maryland,65262.0,16315.5
+2021,3,Financial Services and Insurance,Tampa,56334.0,28167.0
+2021,3,Financial Services and Insurance,Washington D.C.,12380.0,12380.0
+2021,3,Legal Services,Baltimore,46740.0,23370.0
+2021,3,Legal Services,Charlotte,13524.0,13524.0
+2021,3,Legal Services,Chicago,945349.0,157558.16666666666
+2021,3,Legal Services,Dallas/Ft Worth,25120.0,25120.0
+2021,3,Legal Services,Detroit,16498.0,16498.0
+2021,3,Legal Services,Houston,33000.0,33000.0
+2021,3,Legal Services,Los Angeles,56792.0,28396.0
+2021,3,Legal Services,Manhattan,752081.0,83564.55555555556
+2021,3,Legal Services,Northern New Jersey,18268.0,18268.0
+2021,3,Legal Services,Northern Virginia,24303.0,12151.5
+2021,3,Legal Services,Orange County,38451.0,19225.5
+2021,3,Legal Services,Raleigh/Durham,14285.0,14285.0
+2021,3,Legal Services,Seattle,18453.0,18453.0
+2021,3,Legal Services,South Florida,10608.0,10608.0
+2021,3,Legal Services,Washington D.C.,308596.0,34288.444444444445
+2021,3,"Technology, Advertising, Media, and Information",Atlanta,63254.0,15813.5
+2021,3,"Technology, Advertising, Media, and Information",Austin,290047.0,58009.4
+2021,3,"Technology, Advertising, Media, and Information",Baltimore,35306.0,17653.0
+2021,3,"Technology, Advertising, Media, and Information",Boston,336102.0,168051.0
+2021,3,"Technology, Advertising, Media, and Information",Chicago,235494.0,33642.0
+2021,3,"Technology, Advertising, Media, and Information",Chicago Suburbs,91738.0,45869.0
+2021,3,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,146675.0,73337.5
+2021,3,"Technology, Advertising, Media, and Information",Denver,247196.0,49439.2
+2021,3,"Technology, Advertising, Media, and Information",Detroit,52312.0,26156.0
+2021,3,"Technology, Advertising, Media, and Information",Houston,114867.0,57433.5
+2021,3,"Technology, Advertising, Media, and Information",Los Angeles,557349.0,42873.0
+2021,3,"Technology, Advertising, Media, and Information",Manhattan,1228051.0,51168.791666666664
+2021,3,"Technology, Advertising, Media, and Information",Northern New Jersey,27467.0,13733.5
+2021,3,"Technology, Advertising, Media, and Information",Northern Virginia,308866.0,30886.6
+2021,3,"Technology, Advertising, Media, and Information",Orange County,100663.0,33554.333333333336
+2021,3,"Technology, Advertising, Media, and Information",Phoenix,102569.0,25642.25
+2021,3,"Technology, Advertising, Media, and Information",Raleigh/Durham,69617.0,34808.5
+2021,3,"Technology, Advertising, Media, and Information",San Diego,81522.0,81522.0
+2021,3,"Technology, Advertising, Media, and Information",San Francisco,605674.0,67297.11111111111
+2021,3,"Technology, Advertising, Media, and Information",Seattle,453741.0,37811.75
+2021,3,"Technology, Advertising, Media, and Information",South Bay/San Jose,125063.0,31265.75
+2021,3,"Technology, Advertising, Media, and Information",South Florida,134225.0,44741.666666666664
+2021,3,"Technology, Advertising, Media, and Information",Tampa,308579.0,77144.75
+2021,3,"Technology, Advertising, Media, and Information",Washington D.C.,139004.0,46334.666666666664
+2021,4,Financial Services and Insurance,Atlanta,247266.0,49453.2
+2021,4,Financial Services and Insurance,Austin,228738.0,45747.6
+2021,4,Financial Services and Insurance,Baltimore,42238.0,21119.0
+2021,4,Financial Services and Insurance,Boston,217426.0,72475.33333333333
+2021,4,Financial Services and Insurance,Charlotte,173861.0,43465.25
+2021,4,Financial Services and Insurance,Chicago,221151.0,73717.0
+2021,4,Financial Services and Insurance,Chicago Suburbs,33126.0,16563.0
+2021,4,Financial Services and Insurance,Dallas/Ft Worth,105240.0,26310.0
+2021,4,Financial Services and Insurance,Denver,194211.0,48552.75
+2021,4,Financial Services and Insurance,Detroit,47891.0,15963.666666666666
+2021,4,Financial Services and Insurance,Manhattan,1787370.0,33099.444444444445
+2021,4,Financial Services and Insurance,Northern New Jersey,96516.0,24129.0
+2021,4,Financial Services and Insurance,Northern Virginia,52494.0,17498.0
+2021,4,Financial Services and Insurance,Orange County,28466.0,28466.0
+2021,4,Financial Services and Insurance,Philadelphia,257367.0,128683.5
+2021,4,Financial Services and Insurance,Phoenix,65580.0,65580.0
+2021,4,Financial Services and Insurance,Raleigh/Durham,63156.0,21052.0
+2021,4,Financial Services and Insurance,San Diego,84869.0,28289.666666666668
+2021,4,Financial Services and Insurance,San Francisco,302253.0,100751.0
+2021,4,Financial Services and Insurance,South Bay/San Jose,51978.0,51978.0
+2021,4,Financial Services and Insurance,South Florida,111120.0,37040.0
+2021,4,Financial Services and Insurance,Tampa,47136.0,15712.0
+2021,4,Financial Services and Insurance,Washington D.C.,67181.0,22393.666666666668
+2021,4,Legal Services,Baltimore,14705.0,14705.0
+2021,4,Legal Services,Charlotte,17986.0,17986.0
+2021,4,Legal Services,Chicago,177711.0,59237.0
+2021,4,Legal Services,Dallas/Ft Worth,47846.0,47846.0
+2021,4,Legal Services,Denver,23762.0,23762.0
+2021,4,Legal Services,Detroit,23165.0,11582.5
+2021,4,Legal Services,Houston,83132.0,27710.666666666668
+2021,4,Legal Services,Los Angeles,186510.0,37302.0
+2021,4,Legal Services,Manhattan,619668.0,44262.0
+2021,4,Legal Services,Northern New Jersey,168147.0,56049.0
+2021,4,Legal Services,Northern Virginia,22529.0,11264.5
+2021,4,Legal Services,Philadelphia,44193.0,22096.5
+2021,4,Legal Services,Phoenix,18738.0,18738.0
+2021,4,Legal Services,San Francisco,64359.0,21453.0
+2021,4,Legal Services,Seattle,116896.0,23379.2
+2021,4,Legal Services,South Florida,59251.0,19750.333333333332
+2021,4,Legal Services,Southern Maryland,13431.0,13431.0
+2021,4,Legal Services,Tampa,53496.0,26748.0
+2021,4,Legal Services,Washington D.C.,396708.0,44078.666666666664
+2021,4,"Technology, Advertising, Media, and Information",Atlanta,677299.0,169324.75
+2021,4,"Technology, Advertising, Media, and Information",Austin,1024543.0,170757.16666666666
+2021,4,"Technology, Advertising, Media, and Information",Boston,284095.0,94698.33333333333
+2021,4,"Technology, Advertising, Media, and Information",Chicago,442559.0,34043.0
+2021,4,"Technology, Advertising, Media, and Information",Chicago Suburbs,55029.0,27514.5
+2021,4,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,193644.0,38728.8
+2021,4,"Technology, Advertising, Media, and Information",Denver,115222.0,57611.0
+2021,4,"Technology, Advertising, Media, and Information",Detroit,10400.0,10400.0
+2021,4,"Technology, Advertising, Media, and Information",Houston,62380.0,20793.333333333332
+2021,4,"Technology, Advertising, Media, and Information",Los Angeles,789056.0,71732.36363636363
+2021,4,"Technology, Advertising, Media, and Information",Manhattan,1943787.0,64792.9
+2021,4,"Technology, Advertising, Media, and Information",Northern New Jersey,483447.0,161149.0
+2021,4,"Technology, Advertising, Media, and Information",Northern Virginia,374367.0,28797.46153846154
+2021,4,"Technology, Advertising, Media, and Information",Orange County,268512.0,67128.0
+2021,4,"Technology, Advertising, Media, and Information",Philadelphia,93629.0,18725.8
+2021,4,"Technology, Advertising, Media, and Information",Raleigh/Durham,103689.0,34563.0
+2021,4,"Technology, Advertising, Media, and Information",San Diego,73176.0,73176.0
+2021,4,"Technology, Advertising, Media, and Information",San Francisco,509561.0,56617.88888888889
+2021,4,"Technology, Advertising, Media, and Information",Seattle,421853.0,46872.555555555555
+2021,4,"Technology, Advertising, Media, and Information",South Bay/San Jose,1183259.0,147907.375
+2021,4,"Technology, Advertising, Media, and Information",South Florida,172645.0,24663.571428571428
+2021,4,"Technology, Advertising, Media, and Information",Southern Maryland,52859.0,26429.5
+2021,4,"Technology, Advertising, Media, and Information",Tampa,37793.0,12597.666666666666
+2021,4,"Technology, Advertising, Media, and Information",Washington D.C.,196618.0,21846.444444444445
+2022,1,Financial Services and Insurance,Atlanta,11749.0,11749.0
+2022,1,Financial Services and Insurance,Austin,253396.0,63349.0
+2022,1,Financial Services and Insurance,Baltimore,214000.0,214000.0
+2022,1,Financial Services and Insurance,Boston,357210.0,119070.0
+2022,1,Financial Services and Insurance,Charlotte,201198.0,40239.6
+2022,1,Financial Services and Insurance,Chicago,350675.0,43834.375
+2022,1,Financial Services and Insurance,Chicago Suburbs,230989.0,57747.25
+2022,1,Financial Services and Insurance,Dallas/Ft Worth,50219.0,25109.5
+2022,1,Financial Services and Insurance,Denver,72019.0,36009.5
+2022,1,Financial Services and Insurance,Detroit,11418.0,11418.0
+2022,1,Financial Services and Insurance,Houston,16000.0,16000.0
+2022,1,Financial Services and Insurance,Los Angeles,39326.0,19663.0
+2022,1,Financial Services and Insurance,Manhattan,2198179.0,48848.42222222222
+2022,1,Financial Services and Insurance,Nashville,15068.0,15068.0
+2022,1,Financial Services and Insurance,Northern New Jersey,274817.0,45802.833333333336
+2022,1,Financial Services and Insurance,Northern Virginia,63682.0,15920.5
+2022,1,Financial Services and Insurance,Orange County,195931.0,65310.333333333336
+2022,1,Financial Services and Insurance,Philadelphia,109140.0,21828.0
+2022,1,Financial Services and Insurance,Phoenix,45996.0,45996.0
+2022,1,Financial Services and Insurance,Raleigh/Durham,21252.0,21252.0
+2022,1,Financial Services and Insurance,Salt Lake City,48520.0,48520.0
+2022,1,Financial Services and Insurance,San Diego,16568.0,16568.0
+2022,1,Financial Services and Insurance,San Francisco,91879.0,45939.5
+2022,1,Financial Services and Insurance,Seattle,120000.0,120000.0
+2022,1,Financial Services and Insurance,South Florida,85404.0,42702.0
+2022,1,Financial Services and Insurance,Southern Maryland,415332.0,83066.4
+2022,1,Financial Services and Insurance,Tampa,152322.0,38080.5
+2022,1,Financial Services and Insurance,Washington D.C.,31606.0,31606.0
+2022,1,Legal Services,Atlanta,35904.0,35904.0
+2022,1,Legal Services,Austin,15470.0,15470.0
+2022,1,Legal Services,Baltimore,10027.0,10027.0
+2022,1,Legal Services,Boston,40975.0,40975.0
+2022,1,Legal Services,Charlotte,55312.0,55312.0
+2022,1,Legal Services,Chicago,188856.0,31476.0
+2022,1,Legal Services,Denver,146380.0,36595.0
+2022,1,Legal Services,Houston,55908.0,27954.0
+2022,1,Legal Services,Los Angeles,281103.0,40157.57142857143
+2022,1,Legal Services,Manhattan,180058.0,25722.571428571428
+2022,1,Legal Services,Nashville,10866.0,10866.0
+2022,1,Legal Services,Northern New Jersey,17356.0,17356.0
+2022,1,Legal Services,Northern Virginia,38053.0,12684.333333333334
+2022,1,Legal Services,Philadelphia,12321.0,12321.0
+2022,1,Legal Services,Raleigh/Durham,50740.0,25370.0
+2022,1,Legal Services,San Diego,153732.0,76866.0
+2022,1,Legal Services,San Francisco,48348.0,24174.0
+2022,1,Legal Services,Tampa,48490.0,16163.333333333334
+2022,1,Legal Services,Washington D.C.,277783.0,34722.875
+2022,1,"Technology, Advertising, Media, and Information",Atlanta,117078.0,29269.5
+2022,1,"Technology, Advertising, Media, and Information",Austin,449004.0,89800.8
+2022,1,"Technology, Advertising, Media, and Information",Baltimore,42696.0,42696.0
+2022,1,"Technology, Advertising, Media, and Information",Boston,55734.0,27867.0
+2022,1,"Technology, Advertising, Media, and Information",Charlotte,133528.0,33382.0
+2022,1,"Technology, Advertising, Media, and Information",Chicago,204030.0,34005.0
+2022,1,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,42965.0,42965.0
+2022,1,"Technology, Advertising, Media, and Information",Denver,149578.0,49859.333333333336
+2022,1,"Technology, Advertising, Media, and Information",Detroit,23263.0,23263.0
+2022,1,"Technology, Advertising, Media, and Information",Houston,11086.0,11086.0
+2022,1,"Technology, Advertising, Media, and Information",Los Angeles,444429.0,63489.857142857145
+2022,1,"Technology, Advertising, Media, and Information",Manhattan,1106850.0,40994.444444444445
+2022,1,"Technology, Advertising, Media, and Information",Nashville,29000.0,29000.0
+2022,1,"Technology, Advertising, Media, and Information",Northern New Jersey,335255.0,83813.75
+2022,1,"Technology, Advertising, Media, and Information",Northern Virginia,235298.0,26144.222222222223
+2022,1,"Technology, Advertising, Media, and Information",Orange County,89628.0,29876.0
+2022,1,"Technology, Advertising, Media, and Information",Philadelphia,46200.0,23100.0
+2022,1,"Technology, Advertising, Media, and Information",Phoenix,372470.0,124156.66666666667
+2022,1,"Technology, Advertising, Media, and Information",Raleigh/Durham,110811.0,27702.75
+2022,1,"Technology, Advertising, Media, and Information",Salt Lake City,42760.0,21380.0
+2022,1,"Technology, Advertising, Media, and Information",San Diego,24123.0,24123.0
+2022,1,"Technology, Advertising, Media, and Information",Seattle,146293.0,48764.333333333336
+2022,1,"Technology, Advertising, Media, and Information",South Bay/San Jose,49414.0,24707.0
+2022,1,"Technology, Advertising, Media, and Information",South Florida,53137.0,53137.0
+2022,1,"Technology, Advertising, Media, and Information",Tampa,196527.0,39305.4
+2022,1,"Technology, Advertising, Media, and Information",Washington D.C.,106618.0,26654.5
+2022,2,Financial Services and Insurance,Atlanta,344530.0,86132.5
+2022,2,Financial Services and Insurance,Austin,235000.0,235000.0
+2022,2,Financial Services and Insurance,Baltimore,155917.0,51972.333333333336
+2022,2,Financial Services and Insurance,Boston,90436.0,90436.0
+2022,2,Financial Services and Insurance,Charlotte,253222.0,42203.666666666664
+2022,2,Financial Services and Insurance,Chicago,396247.0,49530.875
+2022,2,Financial Services and Insurance,Chicago Suburbs,23763.0,23763.0
+2022,2,Financial Services and Insurance,Dallas/Ft Worth,334776.0,47825.142857142855
+2022,2,Financial Services and Insurance,Denver,98550.0,49275.0
+2022,2,Financial Services and Insurance,Houston,31079.0,31079.0
+2022,2,Financial Services and Insurance,Los Angeles,358927.0,71785.4
+2022,2,Financial Services and Insurance,Manhattan,2512382.0,46525.59259259259
+2022,2,Financial Services and Insurance,Northern New Jersey,120000.0,120000.0
+2022,2,Financial Services and Insurance,Northern Virginia,117211.0,29302.75
+2022,2,Financial Services and Insurance,Orange County,118511.0,23702.2
+2022,2,Financial Services and Insurance,Philadelphia,32747.0,16373.5
+2022,2,Financial Services and Insurance,Phoenix,31520.0,15760.0
+2022,2,Financial Services and Insurance,San Francisco,722128.0,240709.33333333334
+2022,2,Financial Services and Insurance,Seattle,11487.0,11487.0
+2022,2,Financial Services and Insurance,South Florida,52753.0,17584.333333333332
+2022,2,Financial Services and Insurance,Southern Maryland,88674.0,29558.0
+2022,2,Financial Services and Insurance,Tampa,87124.0,29041.333333333332
+2022,2,Financial Services and Insurance,Washington D.C.,260146.0,52029.2
+2022,2,Legal Services,Atlanta,15774.0,15774.0
+2022,2,Legal Services,Austin,22068.0,22068.0
+2022,2,Legal Services,Boston,162000.0,81000.0
+2022,2,Legal Services,Charlotte,101000.0,101000.0
+2022,2,Legal Services,Chicago,109763.0,18293.833333333332
+2022,2,Legal Services,Dallas/Ft Worth,75069.0,75069.0
+2022,2,Legal Services,Denver,166274.0,55424.666666666664
+2022,2,Legal Services,Houston,46819.0,23409.5
+2022,2,Legal Services,Los Angeles,257593.0,28621.444444444445
+2022,2,Legal Services,Manhattan,470132.0,52236.88888888889
+2022,2,Legal Services,Nashville,10152.0,10152.0
+2022,2,Legal Services,Northern New Jersey,10233.0,10233.0
+2022,2,Legal Services,Northern Virginia,33055.0,16527.5
+2022,2,Legal Services,Orange County,14055.0,14055.0
+2022,2,Legal Services,Philadelphia,49673.0,24836.5
+2022,2,Legal Services,Phoenix,14929.0,14929.0
+2022,2,Legal Services,Raleigh/Durham,50302.0,50302.0
+2022,2,Legal Services,Salt Lake City,75000.0,75000.0
+2022,2,Legal Services,San Francisco,110180.0,36726.666666666664
+2022,2,Legal Services,Seattle,11481.0,11481.0
+2022,2,Legal Services,South Bay/San Jose,43475.0,43475.0
+2022,2,Legal Services,Southern Maryland,45685.0,22842.5
+2022,2,Legal Services,Tampa,74313.0,37156.5
+2022,2,Legal Services,Washington D.C.,40965.0,13655.0
+2022,2,"Technology, Advertising, Media, and Information",Atlanta,25543.0,25543.0
+2022,2,"Technology, Advertising, Media, and Information",Austin,136433.0,34108.25
+2022,2,"Technology, Advertising, Media, and Information",Baltimore,15252.0,15252.0
+2022,2,"Technology, Advertising, Media, and Information",Boston,447293.0,149097.66666666666
+2022,2,"Technology, Advertising, Media, and Information",Charlotte,15681.0,15681.0
+2022,2,"Technology, Advertising, Media, and Information",Chicago,182895.0,36579.0
+2022,2,"Technology, Advertising, Media, and Information",Chicago Suburbs,303904.0,151952.0
+2022,2,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,25196.0,25196.0
+2022,2,"Technology, Advertising, Media, and Information",Detroit,31728.0,31728.0
+2022,2,"Technology, Advertising, Media, and Information",Los Angeles,89329.0,22332.25
+2022,2,"Technology, Advertising, Media, and Information",Manhattan,1299637.0,39382.93939393939
+2022,2,"Technology, Advertising, Media, and Information",Northern New Jersey,24179.0,24179.0
+2022,2,"Technology, Advertising, Media, and Information",Northern Virginia,369217.0,61536.166666666664
+2022,2,"Technology, Advertising, Media, and Information",Orange County,35914.0,17957.0
+2022,2,"Technology, Advertising, Media, and Information",Philadelphia,62194.0,20731.333333333332
+2022,2,"Technology, Advertising, Media, and Information",Phoenix,191514.0,38302.8
+2022,2,"Technology, Advertising, Media, and Information",Raleigh/Durham,232242.0,46448.4
+2022,2,"Technology, Advertising, Media, and Information",Salt Lake City,103559.0,51779.5
+2022,2,"Technology, Advertising, Media, and Information",San Diego,200906.0,100453.0
+2022,2,"Technology, Advertising, Media, and Information",San Francisco,220415.0,55103.75
+2022,2,"Technology, Advertising, Media, and Information",Seattle,174826.0,34965.2
+2022,2,"Technology, Advertising, Media, and Information",South Bay/San Jose,751372.0,125228.66666666667
+2022,2,"Technology, Advertising, Media, and Information",South Florida,94298.0,23574.5
+2022,2,"Technology, Advertising, Media, and Information",Tampa,79671.0,26557.0
+2022,2,"Technology, Advertising, Media, and Information",Washington D.C.,76469.0,25489.666666666668
+2022,3,Financial Services and Insurance,Atlanta,251997.0,50399.4
+2022,3,Financial Services and Insurance,Austin,22752.0,22752.0
+2022,3,Financial Services and Insurance,Baltimore,76031.0,38015.5
+2022,3,Financial Services and Insurance,Boston,678973.0,169743.25
+2022,3,Financial Services and Insurance,Charlotte,117095.0,39031.666666666664
+2022,3,Financial Services and Insurance,Chicago,452330.0,64618.57142857143
+2022,3,Financial Services and Insurance,Chicago Suburbs,94631.0,31543.666666666668
+2022,3,Financial Services and Insurance,Dallas/Ft Worth,99419.0,33139.666666666664
+2022,3,Financial Services and Insurance,Denver,216914.0,108457.0
+2022,3,Financial Services and Insurance,Detroit,307409.0,153704.5
+2022,3,Financial Services and Insurance,Houston,98615.0,32871.666666666664
+2022,3,Financial Services and Insurance,Los Angeles,197453.0,49363.25
+2022,3,Financial Services and Insurance,Manhattan,3195833.0,52390.70491803279
+2022,3,Financial Services and Insurance,Northern New Jersey,92940.0,46470.0
+2022,3,Financial Services and Insurance,Northern Virginia,89185.0,17837.0
+2022,3,Financial Services and Insurance,Orange County,421950.0,105487.5
+2022,3,Financial Services and Insurance,Philadelphia,107697.0,21539.4
+2022,3,Financial Services and Insurance,Raleigh/Durham,16184.0,16184.0
+2022,3,Financial Services and Insurance,Salt Lake City,18000.0,18000.0
+2022,3,Financial Services and Insurance,San Diego,34800.0,34800.0
+2022,3,Financial Services and Insurance,San Francisco,36378.0,18189.0
+2022,3,Financial Services and Insurance,Seattle,49992.0,24996.0
+2022,3,Financial Services and Insurance,South Bay/San Jose,40000.0,40000.0
+2022,3,Financial Services and Insurance,South Florida,304223.0,38027.875
+2022,3,Financial Services and Insurance,Southern Maryland,47612.0,23806.0
+2022,3,Financial Services and Insurance,Tampa,148426.0,49475.333333333336
+2022,3,Financial Services and Insurance,Washington D.C.,102404.0,51202.0
+2022,3,Legal Services,Austin,37336.0,18668.0
+2022,3,Legal Services,Baltimore,83711.0,27903.666666666668
+2022,3,Legal Services,Boston,112494.0,112494.0
+2022,3,Legal Services,Chicago,64358.0,16089.5
+2022,3,Legal Services,Dallas/Ft Worth,40482.0,20241.0
+2022,3,Legal Services,Denver,30365.0,15182.5
+2022,3,Legal Services,Houston,231843.0,77281.0
+2022,3,Legal Services,Los Angeles,210356.0,42071.2
+2022,3,Legal Services,Manhattan,595106.0,42507.57142857143
+2022,3,Legal Services,Northern New Jersey,80319.0,20079.75
+2022,3,Legal Services,Northern Virginia,56710.0,56710.0
+2022,3,Legal Services,Orange County,28558.0,28558.0
+2022,3,Legal Services,Philadelphia,105406.0,35135.333333333336
+2022,3,Legal Services,Salt Lake City,48384.0,48384.0
+2022,3,Legal Services,San Diego,41929.0,20964.5
+2022,3,Legal Services,San Francisco,34088.0,34088.0
+2022,3,Legal Services,South Bay/San Jose,71572.0,35786.0
+2022,3,Legal Services,South Florida,122100.0,30525.0
+2022,3,Legal Services,Tampa,60739.0,60739.0
+2022,3,Legal Services,Washington D.C.,180911.0,20101.222222222223
+2022,3,"Technology, Advertising, Media, and Information",Atlanta,251038.0,83679.33333333333
+2022,3,"Technology, Advertising, Media, and Information",Austin,268951.0,38421.57142857143
+2022,3,"Technology, Advertising, Media, and Information",Baltimore,106640.0,53320.0
+2022,3,"Technology, Advertising, Media, and Information",Boston,165824.0,55274.666666666664
+2022,3,"Technology, Advertising, Media, and Information",Charlotte,23854.0,23854.0
+2022,3,"Technology, Advertising, Media, and Information",Chicago,55455.0,13863.75
+2022,3,"Technology, Advertising, Media, and Information",Chicago Suburbs,20755.0,20755.0
+2022,3,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,43815.0,21907.5
+2022,3,"Technology, Advertising, Media, and Information",Denver,53790.0,26895.0
+2022,3,"Technology, Advertising, Media, and Information",Los Angeles,364863.0,60810.5
+2022,3,"Technology, Advertising, Media, and Information",Manhattan,596674.0,39778.26666666667
+2022,3,"Technology, Advertising, Media, and Information",Northern New Jersey,337239.0,67447.8
+2022,3,"Technology, Advertising, Media, and Information",Northern Virginia,333360.0,37040.0
+2022,3,"Technology, Advertising, Media, and Information",Philadelphia,50850.0,50850.0
+2022,3,"Technology, Advertising, Media, and Information",Phoenix,27135.0,27135.0
+2022,3,"Technology, Advertising, Media, and Information",Raleigh/Durham,228465.0,45693.0
+2022,3,"Technology, Advertising, Media, and Information",Salt Lake City,188504.0,62834.666666666664
+2022,3,"Technology, Advertising, Media, and Information",San Diego,134017.0,33504.25
+2022,3,"Technology, Advertising, Media, and Information",San Francisco,414565.0,82913.0
+2022,3,"Technology, Advertising, Media, and Information",Seattle,355835.0,88958.75
+2022,3,"Technology, Advertising, Media, and Information",South Bay/San Jose,1015668.0,145095.42857142858
+2022,3,"Technology, Advertising, Media, and Information",Southern Maryland,22012.0,11006.0
+2022,3,"Technology, Advertising, Media, and Information",Tampa,53272.0,53272.0
+2022,3,"Technology, Advertising, Media, and Information",Washington D.C.,106666.0,21333.2
+2022,4,Financial Services and Insurance,Atlanta,63600.0,63600.0
+2022,4,Financial Services and Insurance,Austin,77860.0,38930.0
+2022,4,Financial Services and Insurance,Baltimore,242000.0,242000.0
+2022,4,Financial Services and Insurance,Boston,32267.0,32267.0
+2022,4,Financial Services and Insurance,Charlotte,65005.0,32502.5
+2022,4,Financial Services and Insurance,Chicago,162181.0,27030.166666666668
+2022,4,Financial Services and Insurance,Chicago Suburbs,25495.0,25495.0
+2022,4,Financial Services and Insurance,Dallas/Ft Worth,351188.0,87797.0
+2022,4,Financial Services and Insurance,Denver,25618.0,25618.0
+2022,4,Financial Services and Insurance,Houston,22000.0,22000.0
+2022,4,Financial Services and Insurance,Los Angeles,184581.0,184581.0
+2022,4,Financial Services and Insurance,Manhattan,990577.0,33019.23333333333
+2022,4,Financial Services and Insurance,Northern New Jersey,719173.0,79908.11111111111
+2022,4,Financial Services and Insurance,Northern Virginia,15000.0,15000.0
+2022,4,Financial Services and Insurance,Orange County,101640.0,33880.0
+2022,4,Financial Services and Insurance,Philadelphia,514916.0,128729.0
+2022,4,Financial Services and Insurance,Phoenix,25937.0,25937.0
+2022,4,Financial Services and Insurance,Salt Lake City,35871.0,35871.0
+2022,4,Financial Services and Insurance,San Francisco,70079.0,35039.5
+2022,4,Financial Services and Insurance,South Bay/San Jose,48564.0,24282.0
+2022,4,Financial Services and Insurance,Southern Maryland,51336.0,17112.0
+2022,4,Financial Services and Insurance,Washington D.C.,27639.0,13819.5
+2022,4,Legal Services,Atlanta,34053.0,34053.0
+2022,4,Legal Services,Charlotte,17829.0,17829.0
+2022,4,Legal Services,Chicago,80548.0,20137.0
+2022,4,Legal Services,Houston,100303.0,50151.5
+2022,4,Legal Services,Los Angeles,209844.0,34974.0
+2022,4,Legal Services,Manhattan,49824.0,16608.0
+2022,4,Legal Services,Northern New Jersey,41446.0,20723.0
+2022,4,Legal Services,Northern Virginia,123065.0,41021.666666666664
+2022,4,Legal Services,Philadelphia,49132.0,16377.333333333334
+2022,4,Legal Services,Phoenix,19699.0,19699.0
+2022,4,Legal Services,Raleigh/Durham,60456.0,20152.0
+2022,4,Legal Services,Salt Lake City,84586.0,42293.0
+2022,4,Legal Services,San Francisco,23632.0,23632.0
+2022,4,Legal Services,Seattle,59100.0,29550.0
+2022,4,Legal Services,South Bay/San Jose,13386.0,13386.0
+2022,4,Legal Services,South Florida,183026.0,91513.0
+2022,4,Legal Services,Southern Maryland,16972.0,16972.0
+2022,4,Legal Services,Washington D.C.,183337.0,45834.25
+2022,4,"Technology, Advertising, Media, and Information",Atlanta,61285.0,30642.5
+2022,4,"Technology, Advertising, Media, and Information",Baltimore,25104.0,25104.0
+2022,4,"Technology, Advertising, Media, and Information",Boston,226961.0,75653.66666666667
+2022,4,"Technology, Advertising, Media, and Information",Charlotte,12400.0,12400.0
+2022,4,"Technology, Advertising, Media, and Information",Chicago,83881.0,27960.333333333332
+2022,4,"Technology, Advertising, Media, and Information",Chicago Suburbs,21599.0,21599.0
+2022,4,"Technology, Advertising, Media, and Information",Denver,54265.0,27132.5
+2022,4,"Technology, Advertising, Media, and Information",Detroit,28276.0,14138.0
+2022,4,"Technology, Advertising, Media, and Information",Houston,42627.0,42627.0
+2022,4,"Technology, Advertising, Media, and Information",Los Angeles,333535.0,37059.444444444445
+2022,4,"Technology, Advertising, Media, and Information",Manhattan,721265.0,30052.708333333332
+2022,4,"Technology, Advertising, Media, and Information",Northern New Jersey,176131.0,35226.2
+2022,4,"Technology, Advertising, Media, and Information",Northern Virginia,393839.0,28131.35714285714
+2022,4,"Technology, Advertising, Media, and Information",Orange County,115290.0,115290.0
+2022,4,"Technology, Advertising, Media, and Information",Phoenix,22878.0,11439.0
+2022,4,"Technology, Advertising, Media, and Information",Raleigh/Durham,40132.0,20066.0
+2022,4,"Technology, Advertising, Media, and Information",San Francisco,304249.0,60849.8
+2022,4,"Technology, Advertising, Media, and Information",Seattle,98376.0,32792.0
+2022,4,"Technology, Advertising, Media, and Information",South Bay/San Jose,83195.0,20798.75
+2022,4,"Technology, Advertising, Media, and Information",South Florida,32172.0,32172.0
+2022,4,"Technology, Advertising, Media, and Information",Tampa,30000.0,30000.0
+2022,4,"Technology, Advertising, Media, and Information",Washington D.C.,42869.0,21434.5
+2023,1,Financial Services and Insurance,Atlanta,38508.0,19254.0
+2023,1,Financial Services and Insurance,Baltimore,24584.0,24584.0
+2023,1,Financial Services and Insurance,Boston,144024.0,28804.8
+2023,1,Financial Services and Insurance,Chicago,260265.0,86755.0
+2023,1,Financial Services and Insurance,Chicago Suburbs,13370.0,13370.0
+2023,1,Financial Services and Insurance,Dallas/Ft Worth,55443.0,55443.0
+2023,1,Financial Services and Insurance,Denver,20737.0,20737.0
+2023,1,Financial Services and Insurance,Detroit,27373.0,13686.5
+2023,1,Financial Services and Insurance,Houston,102707.0,51353.5
+2023,1,Financial Services and Insurance,Los Angeles,263043.0,65760.75
+2023,1,Financial Services and Insurance,Manhattan,1385423.0,38483.97222222222
+2023,1,Financial Services and Insurance,Nashville,41219.0,41219.0
+2023,1,Financial Services and Insurance,Northern New Jersey,282822.0,35352.75
+2023,1,Financial Services and Insurance,Northern Virginia,25703.0,12851.5
+2023,1,Financial Services and Insurance,Orange County,91437.0,18287.4
+2023,1,Financial Services and Insurance,Philadelphia,117465.0,58732.5
+2023,1,Financial Services and Insurance,Phoenix,109805.0,27451.25
+2023,1,Financial Services and Insurance,Salt Lake City,16885.0,16885.0
+2023,1,Financial Services and Insurance,San Diego,15174.0,15174.0
+2023,1,Financial Services and Insurance,San Francisco,69197.0,34598.5
+2023,1,Financial Services and Insurance,Seattle,70852.0,23617.333333333332
+2023,1,Financial Services and Insurance,South Florida,62469.0,31234.5
+2023,1,Financial Services and Insurance,Southern Maryland,19937.0,19937.0
+2023,1,Financial Services and Insurance,Tampa,172521.0,43130.25
+2023,1,Financial Services and Insurance,Washington D.C.,75484.0,15096.8
+2023,1,Legal Services,Baltimore,16671.0,16671.0
+2023,1,Legal Services,Boston,149000.0,74500.0
+2023,1,Legal Services,Chicago,309471.0,61894.2
+2023,1,Legal Services,Dallas/Ft Worth,62241.0,20747.0
+2023,1,Legal Services,Denver,196970.0,49242.5
+2023,1,Legal Services,Detroit,36410.0,18205.0
+2023,1,Legal Services,Houston,147925.0,29585.0
+2023,1,Legal Services,Los Angeles,109057.0,54528.5
+2023,1,Legal Services,Manhattan,578546.0,48212.166666666664
+2023,1,Legal Services,Northern New Jersey,62689.0,20896.333333333332
+2023,1,Legal Services,Northern Virginia,35081.0,11693.666666666666
+2023,1,Legal Services,Orange County,62003.0,20667.666666666668
+2023,1,Legal Services,Philadelphia,14633.0,14633.0
+2023,1,Legal Services,Phoenix,74698.0,24899.333333333332
+2023,1,Legal Services,San Diego,15264.0,15264.0
+2023,1,Legal Services,San Francisco,87019.0,29006.333333333332
+2023,1,Legal Services,Seattle,149110.0,29822.0
+2023,1,Legal Services,Southern Maryland,17189.0,17189.0
+2023,1,Legal Services,Tampa,81755.0,27251.666666666668
+2023,1,Legal Services,Washington D.C.,502889.0,55876.555555555555
+2023,1,"Technology, Advertising, Media, and Information",Austin,100025.0,14289.285714285714
+2023,1,"Technology, Advertising, Media, and Information",Baltimore,23707.0,23707.0
+2023,1,"Technology, Advertising, Media, and Information",Boston,22500.0,22500.0
+2023,1,"Technology, Advertising, Media, and Information",Charlotte,23610.0,23610.0
+2023,1,"Technology, Advertising, Media, and Information",Chicago,116634.0,23326.8
+2023,1,"Technology, Advertising, Media, and Information",Chicago Suburbs,15005.0,15005.0
+2023,1,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,48000.0,24000.0
+2023,1,"Technology, Advertising, Media, and Information",Denver,50910.0,25455.0
+2023,1,"Technology, Advertising, Media, and Information",Detroit,46564.0,46564.0
+2023,1,"Technology, Advertising, Media, and Information",Houston,45108.0,45108.0
+2023,1,"Technology, Advertising, Media, and Information",Los Angeles,450736.0,75122.66666666667
+2023,1,"Technology, Advertising, Media, and Information",Manhattan,2045920.0,97424.76190476191
+2023,1,"Technology, Advertising, Media, and Information",Northern New Jersey,169821.0,33964.2
+2023,1,"Technology, Advertising, Media, and Information",Northern Virginia,273488.0,30387.555555555555
+2023,1,"Technology, Advertising, Media, and Information",Orange County,42534.0,21267.0
+2023,1,"Technology, Advertising, Media, and Information",Philadelphia,20252.0,20252.0
+2023,1,"Technology, Advertising, Media, and Information",Raleigh/Durham,76789.0,38394.5
+2023,1,"Technology, Advertising, Media, and Information",Salt Lake City,31598.0,15799.0
+2023,1,"Technology, Advertising, Media, and Information",San Diego,158936.0,79468.0
+2023,1,"Technology, Advertising, Media, and Information",San Francisco,111599.0,22319.8
+2023,1,"Technology, Advertising, Media, and Information",Seattle,54621.0,27310.5
+2023,1,"Technology, Advertising, Media, and Information",South Bay/San Jose,668156.0,83519.5
+2023,1,"Technology, Advertising, Media, and Information",Southern Maryland,108841.0,36280.333333333336
+2023,1,"Technology, Advertising, Media, and Information",Tampa,15823.0,15823.0
+2023,1,"Technology, Advertising, Media, and Information",Washington D.C.,46581.0,23290.5
+2023,2,Financial Services and Insurance,Atlanta,70445.0,70445.0
+2023,2,Financial Services and Insurance,Austin,32285.0,16142.5
+2023,2,Financial Services and Insurance,Boston,111328.0,27832.0
+2023,2,Financial Services and Insurance,Charlotte,110734.0,36911.333333333336
+2023,2,Financial Services and Insurance,Chicago,565952.0,80850.28571428571
+2023,2,Financial Services and Insurance,Chicago Suburbs,115950.0,23190.0
+2023,2,Financial Services and Insurance,Dallas/Ft Worth,54574.0,27287.0
+2023,2,Financial Services and Insurance,Denver,132473.0,66236.5
+2023,2,Financial Services and Insurance,Detroit,12500.0,12500.0
+2023,2,Financial Services and Insurance,Houston,72951.0,18237.75
+2023,2,Financial Services and Insurance,Los Angeles,48894.0,48894.0
+2023,2,Financial Services and Insurance,Manhattan,1289768.0,41605.41935483871
+2023,2,Financial Services and Insurance,Northern New Jersey,74701.0,37350.5
+2023,2,Financial Services and Insurance,Northern Virginia,26352.0,13176.0
+2023,2,Financial Services and Insurance,Orange County,119384.0,29846.0
+2023,2,Financial Services and Insurance,Philadelphia,115195.0,38398.333333333336
+2023,2,Financial Services and Insurance,Phoenix,152629.0,76314.5
+2023,2,Financial Services and Insurance,Raleigh/Durham,23365.0,23365.0
+2023,2,Financial Services and Insurance,Salt Lake City,26839.0,26839.0
+2023,2,Financial Services and Insurance,San Diego,74026.0,18506.5
+2023,2,Financial Services and Insurance,San Francisco,64063.0,32031.5
+2023,2,Financial Services and Insurance,South Bay/San Jose,39436.0,19718.0
+2023,2,Financial Services and Insurance,South Florida,112738.0,37579.333333333336
+2023,2,Financial Services and Insurance,Southern Maryland,14786.0,14786.0
+2023,2,Financial Services and Insurance,Washington D.C.,32411.0,16205.5
+2023,2,Legal Services,Atlanta,28423.0,28423.0
+2023,2,Legal Services,Baltimore,11816.0,11816.0
+2023,2,Legal Services,Boston,18918.0,18918.0
+2023,2,Legal Services,Chicago,61226.0,20408.666666666668
+2023,2,Legal Services,Dallas/Ft Worth,168700.0,42175.0
+2023,2,Legal Services,Denver,67667.0,16916.75
+2023,2,Legal Services,Detroit,48161.0,12040.25
+2023,2,Legal Services,Houston,90445.0,45222.5
+2023,2,Legal Services,Los Angeles,145531.0,48510.333333333336
+2023,2,Legal Services,Manhattan,806010.0,80601.0
+2023,2,Legal Services,Northern New Jersey,50812.0,25406.0
+2023,2,Legal Services,Northern Virginia,40321.0,20160.5
+2023,2,Legal Services,Philadelphia,79337.0,79337.0
+2023,2,Legal Services,Raleigh/Durham,12250.0,12250.0
+2023,2,Legal Services,San Francisco,44049.0,44049.0
+2023,2,Legal Services,Seattle,21824.0,21824.0
+2023,2,Legal Services,South Florida,143250.0,71625.0
+2023,2,Legal Services,Tampa,13700.0,13700.0
+2023,2,Legal Services,Washington D.C.,359947.0,59991.166666666664
+2023,2,"Technology, Advertising, Media, and Information",Atlanta,10227.0,10227.0
+2023,2,"Technology, Advertising, Media, and Information",Austin,319998.0,319998.0
+2023,2,"Technology, Advertising, Media, and Information",Baltimore,18045.0,18045.0
+2023,2,"Technology, Advertising, Media, and Information",Boston,242573.0,26952.555555555555
+2023,2,"Technology, Advertising, Media, and Information",Charlotte,11384.0,11384.0
+2023,2,"Technology, Advertising, Media, and Information",Chicago,71586.0,35793.0
+2023,2,"Technology, Advertising, Media, and Information",Chicago Suburbs,12862.0,12862.0
+2023,2,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,31000.0,31000.0
+2023,2,"Technology, Advertising, Media, and Information",Denver,36190.0,18095.0
+2023,2,"Technology, Advertising, Media, and Information",Detroit,18678.0,18678.0
+2023,2,"Technology, Advertising, Media, and Information",Houston,65109.0,32554.5
+2023,2,"Technology, Advertising, Media, and Information",Los Angeles,340274.0,42534.25
+2023,2,"Technology, Advertising, Media, and Information",Manhattan,620617.0,36506.882352941175
+2023,2,"Technology, Advertising, Media, and Information",Northern New Jersey,66222.0,22074.0
+2023,2,"Technology, Advertising, Media, and Information",Northern Virginia,251163.0,27907.0
+2023,2,"Technology, Advertising, Media, and Information",Orange County,98970.0,49485.0
+2023,2,"Technology, Advertising, Media, and Information",Raleigh/Durham,67988.0,22662.666666666668
+2023,2,"Technology, Advertising, Media, and Information",Salt Lake City,66612.0,22204.0
+2023,2,"Technology, Advertising, Media, and Information",San Diego,145224.0,48408.0
+2023,2,"Technology, Advertising, Media, and Information",San Francisco,507910.0,50791.0
+2023,2,"Technology, Advertising, Media, and Information",Seattle,165824.0,41456.0
+2023,2,"Technology, Advertising, Media, and Information",South Bay/San Jose,302979.0,60595.8
+2023,2,"Technology, Advertising, Media, and Information",South Florida,18114.0,18114.0
+2023,2,"Technology, Advertising, Media, and Information",Southern Maryland,62050.0,31025.0
+2023,2,"Technology, Advertising, Media, and Information",Tampa,39411.0,19705.5
+2023,2,"Technology, Advertising, Media, and Information",Washington D.C.,81333.0,16266.6
+2023,3,Financial Services and Insurance,Atlanta,23875.0,11937.5
+2023,3,Financial Services and Insurance,Austin,47853.0,15951.0
+2023,3,Financial Services and Insurance,Baltimore,24904.0,24904.0
+2023,3,Financial Services and Insurance,Boston,365100.0,91275.0
+2023,3,Financial Services and Insurance,Charlotte,43019.0,21509.5
+2023,3,Financial Services and Insurance,Chicago,367260.0,40806.666666666664
+2023,3,Financial Services and Insurance,Chicago Suburbs,173307.0,43326.75
+2023,3,Financial Services and Insurance,Denver,19809.0,19809.0
+2023,3,Financial Services and Insurance,Houston,79692.0,39846.0
+2023,3,Financial Services and Insurance,Los Angeles,390752.0,48844.0
+2023,3,Financial Services and Insurance,Manhattan,1154879.0,27497.119047619046
+2023,3,Financial Services and Insurance,Northern New Jersey,295699.0,36962.375
+2023,3,Financial Services and Insurance,Northern Virginia,79173.0,26391.0
+2023,3,Financial Services and Insurance,Orange County,38858.0,19429.0
+2023,3,Financial Services and Insurance,Philadelphia,204599.0,40919.8
+2023,3,Financial Services and Insurance,Phoenix,31116.0,15558.0
+2023,3,Financial Services and Insurance,Raleigh/Durham,73873.0,36936.5
+2023,3,Financial Services and Insurance,Salt Lake City,38286.0,19143.0
+2023,3,Financial Services and Insurance,San Diego,62639.0,20879.666666666668
+2023,3,Financial Services and Insurance,San Francisco,51942.0,17314.0
+2023,3,Financial Services and Insurance,Seattle,65664.0,21888.0
+2023,3,Financial Services and Insurance,South Bay/San Jose,119655.0,29913.75
+2023,3,Financial Services and Insurance,South Florida,97947.0,24486.75
+2023,3,Financial Services and Insurance,Southern Maryland,62101.0,20700.333333333332
+2023,3,Financial Services and Insurance,Tampa,79908.0,79908.0
+2023,3,Financial Services and Insurance,Washington D.C.,42952.0,14317.333333333334
+2023,3,Legal Services,Atlanta,67251.0,22417.0
+2023,3,Legal Services,Austin,69228.0,17307.0
+2023,3,Legal Services,Boston,10000.0,10000.0
+2023,3,Legal Services,Charlotte,42318.0,21159.0
+2023,3,Legal Services,Chicago,307960.0,61592.0
+2023,3,Legal Services,Dallas/Ft Worth,15000.0,15000.0
+2023,3,Legal Services,Denver,13400.0,13400.0
+2023,3,Legal Services,Detroit,53400.0,26700.0
+2023,3,Legal Services,Los Angeles,76535.0,19133.75
+2023,3,Legal Services,Manhattan,957553.0,87050.27272727272
+2023,3,Legal Services,Nashville,25755.0,25755.0
+2023,3,Legal Services,Northern New Jersey,48485.0,24242.5
+2023,3,Legal Services,Northern Virginia,44135.0,14711.666666666666
+2023,3,Legal Services,Orange County,22909.0,22909.0
+2023,3,Legal Services,Philadelphia,106913.0,26728.25
+2023,3,Legal Services,Salt Lake City,35586.0,35586.0
+2023,3,Legal Services,San Diego,19692.0,19692.0
+2023,3,Legal Services,San Francisco,19137.0,19137.0
+2023,3,Legal Services,Seattle,44640.0,22320.0
+2023,3,Legal Services,South Florida,128450.0,128450.0
+2023,3,Legal Services,Tampa,71735.0,17933.75
+2023,3,Legal Services,Washington D.C.,23873.0,11936.5
+2023,3,"Technology, Advertising, Media, and Information",Atlanta,225297.0,37549.5
+2023,3,"Technology, Advertising, Media, and Information",Austin,176721.0,22090.125
+2023,3,"Technology, Advertising, Media, and Information",Boston,166552.0,41638.0
+2023,3,"Technology, Advertising, Media, and Information",Charlotte,12290.0,12290.0
+2023,3,"Technology, Advertising, Media, and Information",Chicago,163714.0,40928.5
+2023,3,"Technology, Advertising, Media, and Information",Chicago Suburbs,10594.0,10594.0
+2023,3,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,83000.0,41500.0
+2023,3,"Technology, Advertising, Media, and Information",Denver,148399.0,49466.333333333336
+2023,3,"Technology, Advertising, Media, and Information",Detroit,98500.0,49250.0
+2023,3,"Technology, Advertising, Media, and Information",Los Angeles,575321.0,47943.416666666664
+2023,3,"Technology, Advertising, Media, and Information",Manhattan,562079.0,23419.958333333332
+2023,3,"Technology, Advertising, Media, and Information",Nashville,54308.0,18102.666666666668
+2023,3,"Technology, Advertising, Media, and Information",Northern New Jersey,63120.0,21040.0
+2023,3,"Technology, Advertising, Media, and Information",Northern Virginia,132034.0,14670.444444444445
+2023,3,"Technology, Advertising, Media, and Information",Orange County,69811.0,34905.5
+2023,3,"Technology, Advertising, Media, and Information",Philadelphia,55000.0,55000.0
+2023,3,"Technology, Advertising, Media, and Information",Phoenix,98128.0,32709.333333333332
+2023,3,"Technology, Advertising, Media, and Information",Raleigh/Durham,26817.0,26817.0
+2023,3,"Technology, Advertising, Media, and Information",Salt Lake City,30344.0,30344.0
+2023,3,"Technology, Advertising, Media, and Information",San Diego,152400.0,38100.0
+2023,3,"Technology, Advertising, Media, and Information",San Francisco,225212.0,37535.333333333336
+2023,3,"Technology, Advertising, Media, and Information",Seattle,234334.0,46866.8
+2023,3,"Technology, Advertising, Media, and Information",South Bay/San Jose,121521.0,40507.0
+2023,3,"Technology, Advertising, Media, and Information",South Florida,89636.0,29878.666666666668
+2023,3,"Technology, Advertising, Media, and Information",Southern Maryland,13180.0,13180.0
+2023,3,"Technology, Advertising, Media, and Information",Tampa,104389.0,34796.333333333336
+2023,3,"Technology, Advertising, Media, and Information",Washington D.C.,13893.0,13893.0
+2023,4,Financial Services and Insurance,Atlanta,109703.0,18283.833333333332
+2023,4,Financial Services and Insurance,Baltimore,65214.0,65214.0
+2023,4,Financial Services and Insurance,Boston,132664.0,66332.0
+2023,4,Financial Services and Insurance,Chicago,563216.0,56321.6
+2023,4,Financial Services and Insurance,Chicago Suburbs,99676.0,24919.0
+2023,4,Financial Services and Insurance,Dallas/Ft Worth,126570.0,31642.5
+2023,4,Financial Services and Insurance,Denver,22000.0,22000.0
+2023,4,Financial Services and Insurance,Detroit,408500.0,136166.66666666666
+2023,4,Financial Services and Insurance,Houston,78461.0,26153.666666666668
+2023,4,Financial Services and Insurance,Los Angeles,123769.0,24753.8
+2023,4,Financial Services and Insurance,Manhattan,1916799.0,58084.818181818184
+2023,4,Financial Services and Insurance,Nashville,89219.0,44609.5
+2023,4,Financial Services and Insurance,Northern New Jersey,766852.0,95856.5
+2023,4,Financial Services and Insurance,Northern Virginia,75686.0,25228.666666666668
+2023,4,Financial Services and Insurance,Orange County,84008.0,28002.666666666668
+2023,4,Financial Services and Insurance,Philadelphia,94663.0,23665.75
+2023,4,Financial Services and Insurance,Phoenix,32000.0,16000.0
+2023,4,Financial Services and Insurance,Raleigh/Durham,19794.0,19794.0
+2023,4,Financial Services and Insurance,Salt Lake City,19063.0,19063.0
+2023,4,Financial Services and Insurance,San Diego,98327.0,49163.5
+2023,4,Financial Services and Insurance,San Francisco,182466.0,91233.0
+2023,4,Financial Services and Insurance,Seattle,66579.0,22193.0
+2023,4,Financial Services and Insurance,South Florida,184654.0,46163.5
+2023,4,Financial Services and Insurance,Southern Maryland,21841.0,21841.0
+2023,4,Financial Services and Insurance,Tampa,77901.0,38950.5
+2023,4,Financial Services and Insurance,Washington D.C.,15558.0,15558.0
+2023,4,Legal Services,Atlanta,120319.0,20053.166666666668
+2023,4,Legal Services,Austin,15071.0,15071.0
+2023,4,Legal Services,Baltimore,45000.0,45000.0
+2023,4,Legal Services,Charlotte,33561.0,16780.5
+2023,4,Legal Services,Chicago,268181.0,33522.625
+2023,4,Legal Services,Dallas/Ft Worth,47297.0,23648.5
+2023,4,Legal Services,Denver,56636.0,28318.0
+2023,4,Legal Services,Detroit,41500.0,20750.0
+2023,4,Legal Services,Houston,143755.0,28751.0
+2023,4,Legal Services,Los Angeles,214133.0,71377.66666666667
+2023,4,Legal Services,Manhattan,1482586.0,87210.94117647059
+2023,4,Legal Services,Northern New Jersey,63862.0,21287.333333333332
+2023,4,Legal Services,Northern Virginia,85194.0,28398.0
+2023,4,Legal Services,Orange County,45049.0,22524.5
+2023,4,Legal Services,Philadelphia,27477.0,13738.5
+2023,4,Legal Services,Salt Lake City,19052.0,19052.0
+2023,4,Legal Services,San Diego,117181.0,58590.5
+2023,4,Legal Services,San Francisco,140659.0,23443.166666666668
+2023,4,Legal Services,Seattle,169364.0,84682.0
+2023,4,Legal Services,South Florida,11000.0,11000.0
+2023,4,Legal Services,Washington D.C.,159360.0,39840.0
+2023,4,"Technology, Advertising, Media, and Information",Atlanta,207189.0,34531.5
+2023,4,"Technology, Advertising, Media, and Information",Austin,631887.0,78985.875
+2023,4,"Technology, Advertising, Media, and Information",Boston,147882.0,24647.0
+2023,4,"Technology, Advertising, Media, and Information",Charlotte,20933.0,20933.0
+2023,4,"Technology, Advertising, Media, and Information",Chicago,40291.0,20145.5
+2023,4,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,140818.0,46939.333333333336
+2023,4,"Technology, Advertising, Media, and Information",Denver,53463.0,26731.5
+2023,4,"Technology, Advertising, Media, and Information",Detroit,13200.0,13200.0
+2023,4,"Technology, Advertising, Media, and Information",Houston,10890.0,10890.0
+2023,4,"Technology, Advertising, Media, and Information",Los Angeles,110265.0,22053.0
+2023,4,"Technology, Advertising, Media, and Information",Manhattan,687567.0,42972.9375
+2023,4,"Technology, Advertising, Media, and Information",Northern New Jersey,360000.0,360000.0
+2023,4,"Technology, Advertising, Media, and Information",Northern Virginia,421258.0,60179.71428571428
+2023,4,"Technology, Advertising, Media, and Information",Phoenix,26622.0,13311.0
+2023,4,"Technology, Advertising, Media, and Information",Raleigh/Durham,830653.0,207663.25
+2023,4,"Technology, Advertising, Media, and Information",Salt Lake City,52589.0,26294.5
+2023,4,"Technology, Advertising, Media, and Information",San Diego,53794.0,53794.0
+2023,4,"Technology, Advertising, Media, and Information",San Francisco,849689.0,141614.83333333334
+2023,4,"Technology, Advertising, Media, and Information",South Bay/San Jose,140330.0,23388.333333333332
+2023,4,"Technology, Advertising, Media, and Information",Tampa,83200.0,83200.0
+2023,4,"Technology, Advertising, Media, and Information",Washington D.C.,60590.0,20196.666666666668
+2024,1,Financial Services and Insurance,Atlanta,194740.0,21637.777777777777
+2024,1,Financial Services and Insurance,Austin,33503.0,16751.5
+2024,1,Financial Services and Insurance,Boston,102800.0,17133.333333333332
+2024,1,Financial Services and Insurance,Charlotte,92752.0,30917.333333333332
+2024,1,Financial Services and Insurance,Chicago,432357.0,48039.666666666664
+2024,1,Financial Services and Insurance,Chicago Suburbs,129916.0,25983.2
+2024,1,Financial Services and Insurance,Dallas/Ft Worth,100458.0,25114.5
+2024,1,Financial Services and Insurance,Denver,32309.0,32309.0
+2024,1,Financial Services and Insurance,Los Angeles,231380.0,33054.28571428572
+2024,1,Financial Services and Insurance,Manhattan,1462525.0,31794.021739130436
+2024,1,Financial Services and Insurance,Nashville,68722.0,22907.333333333332
+2024,1,Financial Services and Insurance,Northern New Jersey,142483.0,23747.166666666668
+2024,1,Financial Services and Insurance,Northern Virginia,26348.0,13174.0
+2024,1,Financial Services and Insurance,Orange County,218183.0,31169.0
+2024,1,Financial Services and Insurance,Philadelphia,107772.0,21554.4
+2024,1,Financial Services and Insurance,Phoenix,131696.0,32924.0
+2024,1,Financial Services and Insurance,San Diego,26043.0,26043.0
+2024,1,Financial Services and Insurance,San Francisco,79877.0,19969.25
+2024,1,Financial Services and Insurance,South Florida,61852.0,15463.0
+2024,1,Financial Services and Insurance,Tampa,191127.0,63709.0
+2024,1,Financial Services and Insurance,Washington D.C.,18427.0,18427.0
+2024,1,Legal Services,Atlanta,34088.0,17044.0
+2024,1,Legal Services,Boston,13300.0,13300.0
+2024,1,Legal Services,Chicago,283314.0,35414.25
+2024,1,Legal Services,Dallas/Ft Worth,211484.0,52871.0
+2024,1,Legal Services,Detroit,10000.0,10000.0
+2024,1,Legal Services,Houston,24925.0,24925.0
+2024,1,Legal Services,Los Angeles,191116.0,31852.666666666668
+2024,1,Legal Services,Manhattan,482841.0,37141.61538461538
+2024,1,Legal Services,Nashville,30593.0,30593.0
+2024,1,Legal Services,Northern New Jersey,51850.0,25925.0
+2024,1,Legal Services,Northern Virginia,46387.0,15462.333333333334
+2024,1,Legal Services,Orange County,46915.0,23457.5
+2024,1,Legal Services,Philadelphia,43000.0,43000.0
+2024,1,Legal Services,Phoenix,19000.0,19000.0
+2024,1,Legal Services,Raleigh/Durham,37926.0,18963.0
+2024,1,Legal Services,Salt Lake City,43853.0,21926.5
+2024,1,Legal Services,San Diego,20788.0,20788.0
+2024,1,Legal Services,San Francisco,159285.0,53095.0
+2024,1,Legal Services,Seattle,14106.0,14106.0
+2024,1,Legal Services,South Bay/San Jose,10496.0,10496.0
+2024,1,Legal Services,South Florida,14597.0,14597.0
+2024,1,Legal Services,Southern Maryland,19407.0,19407.0
+2024,1,Legal Services,Tampa,20155.0,20155.0
+2024,1,Legal Services,Washington D.C.,419973.0,41997.3
+2024,1,"Technology, Advertising, Media, and Information",Atlanta,279058.0,39865.42857142857
+2024,1,"Technology, Advertising, Media, and Information",Austin,136861.0,34215.25
+2024,1,"Technology, Advertising, Media, and Information",Baltimore,56108.0,28054.0
+2024,1,"Technology, Advertising, Media, and Information",Charlotte,43591.0,14530.333333333334
+2024,1,"Technology, Advertising, Media, and Information",Chicago,161856.0,26976.0
+2024,1,"Technology, Advertising, Media, and Information",Chicago Suburbs,16500.0,16500.0
+2024,1,"Technology, Advertising, Media, and Information",Detroit,55729.0,27864.5
+2024,1,"Technology, Advertising, Media, and Information",Houston,15329.0,15329.0
+2024,1,"Technology, Advertising, Media, and Information",Los Angeles,799952.0,88883.55555555556
+2024,1,"Technology, Advertising, Media, and Information",Manhattan,450509.0,25028.277777777777
+2024,1,"Technology, Advertising, Media, and Information",Nashville,167578.0,83789.0
+2024,1,"Technology, Advertising, Media, and Information",Northern New Jersey,45962.0,22981.0
+2024,1,"Technology, Advertising, Media, and Information",Northern Virginia,171694.0,19077.11111111111
+2024,1,"Technology, Advertising, Media, and Information",Philadelphia,104990.0,52495.0
+2024,1,"Technology, Advertising, Media, and Information",Raleigh/Durham,54530.0,54530.0
+2024,1,"Technology, Advertising, Media, and Information",Salt Lake City,59931.0,29965.5
+2024,1,"Technology, Advertising, Media, and Information",San Diego,141033.0,47011.0
+2024,1,"Technology, Advertising, Media, and Information",San Francisco,298422.0,42631.71428571428
+2024,1,"Technology, Advertising, Media, and Information",Seattle,707285.0,88410.625
+2024,1,"Technology, Advertising, Media, and Information",South Bay/San Jose,303631.0,60726.2
+2024,1,"Technology, Advertising, Media, and Information",South Florida,41332.0,41332.0
+2024,1,"Technology, Advertising, Media, and Information",Tampa,11692.0,11692.0
+2024,1,"Technology, Advertising, Media, and Information",Washington D.C.,398630.0,79726.0
+2024,2,Financial Services and Insurance,Atlanta,192708.0,19270.8
+2024,2,Financial Services and Insurance,Austin,198274.0,99137.0
+2024,2,Financial Services and Insurance,Baltimore,128620.0,42873.333333333336
+2024,2,Financial Services and Insurance,Boston,43900.0,43900.0
+2024,2,Financial Services and Insurance,Charlotte,30850.0,15425.0
+2024,2,Financial Services and Insurance,Chicago,266357.0,29595.222222222223
+2024,2,Financial Services and Insurance,Chicago Suburbs,126053.0,31513.25
+2024,2,Financial Services and Insurance,Dallas/Ft Worth,139128.0,27825.6
+2024,2,Financial Services and Insurance,Detroit,53075.0,26537.5
+2024,2,Financial Services and Insurance,Houston,132000.0,132000.0
+2024,2,Financial Services and Insurance,Los Angeles,133507.0,26701.4
+2024,2,Financial Services and Insurance,Manhattan,1363671.0,32468.35714285714
+2024,2,Financial Services and Insurance,Nashville,34793.0,34793.0
+2024,2,Financial Services and Insurance,Northern New Jersey,368507.0,73701.4
+2024,2,Financial Services and Insurance,Northern Virginia,38645.0,19322.5
+2024,2,Financial Services and Insurance,Orange County,53120.0,26560.0
+2024,2,Financial Services and Insurance,Philadelphia,11688.0,11688.0
+2024,2,Financial Services and Insurance,Phoenix,54157.0,27078.5
+2024,2,Financial Services and Insurance,Salt Lake City,83398.0,41699.0
+2024,2,Financial Services and Insurance,San Diego,30559.0,15279.5
+2024,2,Financial Services and Insurance,San Francisco,66654.0,22218.0
+2024,2,Financial Services and Insurance,Seattle,115297.0,38432.333333333336
+2024,2,Financial Services and Insurance,South Florida,108260.0,36086.666666666664
+2024,2,Financial Services and Insurance,Tampa,28688.0,14344.0
+2024,2,Financial Services and Insurance,Washington D.C.,23295.0,11647.5
+2024,2,Legal Services,Atlanta,55963.0,13990.75
+2024,2,Legal Services,Austin,28000.0,28000.0
+2024,2,Legal Services,Baltimore,47063.0,23531.5
+2024,2,Legal Services,Boston,24541.0,24541.0
+2024,2,Legal Services,Chicago,67758.0,16939.5
+2024,2,Legal Services,Dallas/Ft Worth,273146.0,39020.857142857145
+2024,2,Legal Services,Denver,43040.0,21520.0
+2024,2,Legal Services,Detroit,45822.0,45822.0
+2024,2,Legal Services,Houston,38986.0,19493.0
+2024,2,Legal Services,Los Angeles,428127.0,42812.7
+2024,2,Legal Services,Manhattan,839402.0,49376.58823529412
+2024,2,Legal Services,Nashville,18422.0,18422.0
+2024,2,Legal Services,Northern New Jersey,67000.0,33500.0
+2024,2,Legal Services,Northern Virginia,37237.0,18618.5
+2024,2,Legal Services,Orange County,153878.0,38469.5
+2024,2,Legal Services,Philadelphia,137556.0,34389.0
+2024,2,Legal Services,Phoenix,52886.0,52886.0
+2024,2,Legal Services,Raleigh/Durham,41854.0,20927.0
+2024,2,Legal Services,San Diego,15209.0,15209.0
+2024,2,Legal Services,San Francisco,211216.0,70405.33333333333
+2024,2,Legal Services,Seattle,66094.0,66094.0
+2024,2,Legal Services,South Bay/San Jose,19490.0,19490.0
+2024,2,Legal Services,South Florida,164137.0,41034.25
+2024,2,Legal Services,Southern Maryland,10692.0,10692.0
+2024,2,Legal Services,Tampa,53341.0,53341.0
+2024,2,Legal Services,Washington D.C.,208612.0,29801.714285714286
+2024,2,"Technology, Advertising, Media, and Information",Atlanta,344347.0,86086.75
+2024,2,"Technology, Advertising, Media, and Information",Austin,84781.0,21195.25
+2024,2,"Technology, Advertising, Media, and Information",Baltimore,34400.0,34400.0
+2024,2,"Technology, Advertising, Media, and Information",Boston,105000.0,35000.0
+2024,2,"Technology, Advertising, Media, and Information",Chicago,305369.0,43624.142857142855
+2024,2,"Technology, Advertising, Media, and Information",Chicago Suburbs,10000.0,10000.0
+2024,2,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,155384.0,51794.666666666664
+2024,2,"Technology, Advertising, Media, and Information",Denver,153153.0,30630.6
+2024,2,"Technology, Advertising, Media, and Information",Detroit,47600.0,23800.0
+2024,2,"Technology, Advertising, Media, and Information",Houston,58627.0,29313.5
+2024,2,"Technology, Advertising, Media, and Information",Los Angeles,357649.0,44706.125
+2024,2,"Technology, Advertising, Media, and Information",Manhattan,1697354.0,73798.0
+2024,2,"Technology, Advertising, Media, and Information",Nashville,161402.0,53800.666666666664
+2024,2,"Technology, Advertising, Media, and Information",Northern New Jersey,100352.0,25088.0
+2024,2,"Technology, Advertising, Media, and Information",Northern Virginia,213189.0,23687.666666666668
+2024,2,"Technology, Advertising, Media, and Information",Orange County,68187.0,34093.5
+2024,2,"Technology, Advertising, Media, and Information",Philadelphia,57035.0,28517.5
+2024,2,"Technology, Advertising, Media, and Information",Phoenix,68875.0,22958.333333333332
+2024,2,"Technology, Advertising, Media, and Information",Raleigh/Durham,12000.0,12000.0
+2024,2,"Technology, Advertising, Media, and Information",Salt Lake City,32751.0,16375.5
+2024,2,"Technology, Advertising, Media, and Information",San Francisco,521872.0,65234.0
+2024,2,"Technology, Advertising, Media, and Information",Seattle,619646.0,103274.33333333333
+2024,2,"Technology, Advertising, Media, and Information",South Bay/San Jose,132941.0,22156.833333333332
+2024,2,"Technology, Advertising, Media, and Information",Southern Maryland,200949.0,100474.5
+2024,2,"Technology, Advertising, Media, and Information",Washington D.C.,90325.0,22581.25
+2024,3,Financial Services and Insurance,Atlanta,227698.0,32528.285714285714
+2024,3,Financial Services and Insurance,Austin,20878.0,20878.0
+2024,3,Financial Services and Insurance,Boston,699329.0,116554.83333333333
+2024,3,Financial Services and Insurance,Charlotte,55906.0,27953.0
+2024,3,Financial Services and Insurance,Chicago,336409.0,56068.166666666664
+2024,3,Financial Services and Insurance,Chicago Suburbs,53965.0,26982.5
+2024,3,Financial Services and Insurance,Dallas/Ft Worth,953326.0,238331.5
+2024,3,Financial Services and Insurance,Denver,69326.0,34663.0
+2024,3,Financial Services and Insurance,Detroit,220044.0,36674.0
+2024,3,Financial Services and Insurance,Houston,105610.0,52805.0
+2024,3,Financial Services and Insurance,Los Angeles,284412.0,56882.4
+2024,3,Financial Services and Insurance,Manhattan,2500802.0,64123.1282051282
+2024,3,Financial Services and Insurance,Nashville,74683.0,24894.333333333332
+2024,3,Financial Services and Insurance,Northern New Jersey,650606.0,130121.2
+2024,3,Financial Services and Insurance,Northern Virginia,74978.0,74978.0
+2024,3,Financial Services and Insurance,Orange County,241589.0,60397.25
+2024,3,Financial Services and Insurance,Philadelphia,178372.0,25481.714285714286
+2024,3,Financial Services and Insurance,Phoenix,79823.0,19955.75
+2024,3,Financial Services and Insurance,Salt Lake City,56661.0,28330.5
+2024,3,Financial Services and Insurance,San Diego,35482.0,35482.0
+2024,3,Financial Services and Insurance,San Francisco,59679.0,29839.5
+2024,3,Financial Services and Insurance,Seattle,51001.0,25500.5
+2024,3,Financial Services and Insurance,South Bay/San Jose,40764.0,13588.0
+2024,3,Financial Services and Insurance,South Florida,112633.0,22526.6
+2024,3,Financial Services and Insurance,Tampa,106445.0,35481.666666666664
+2024,3,Financial Services and Insurance,Washington D.C.,357850.0,178925.0
+2024,3,Legal Services,Atlanta,139714.0,46571.333333333336
+2024,3,Legal Services,Austin,15458.0,15458.0
+2024,3,Legal Services,Chicago,447844.0,49760.444444444445
+2024,3,Legal Services,Dallas/Ft Worth,180051.0,36010.2
+2024,3,Legal Services,Denver,74920.0,24973.333333333332
+2024,3,Legal Services,Detroit,66603.0,16650.75
+2024,3,Legal Services,Houston,77599.0,25866.333333333332
+2024,3,Legal Services,Los Angeles,138145.0,27629.0
+2024,3,Legal Services,Manhattan,591365.0,59136.5
+2024,3,Legal Services,Nashville,23195.0,23195.0
+2024,3,Legal Services,Northern New Jersey,157011.0,31402.2
+2024,3,Legal Services,Northern Virginia,31879.0,15939.5
+2024,3,Legal Services,Orange County,62578.0,20859.333333333332
+2024,3,Legal Services,Philadelphia,94810.0,47405.0
+2024,3,Legal Services,Phoenix,20047.0,20047.0
+2024,3,Legal Services,San Diego,93219.0,31073.0
+2024,3,Legal Services,Seattle,13835.0,13835.0
+2024,3,Legal Services,South Bay/San Jose,17941.0,17941.0
+2024,3,Legal Services,South Florida,208272.0,26034.0
+2024,3,Legal Services,Washington D.C.,88230.0,22057.5
+2024,3,"Technology, Advertising, Media, and Information",Atlanta,377966.0,41996.22222222222
+2024,3,"Technology, Advertising, Media, and Information",Austin,457311.0,76218.5
+2024,3,"Technology, Advertising, Media, and Information",Baltimore,80839.0,40419.5
+2024,3,"Technology, Advertising, Media, and Information",Boston,162500.0,81250.0
+2024,3,"Technology, Advertising, Media, and Information",Chicago,36284.0,18142.0
+2024,3,"Technology, Advertising, Media, and Information",Chicago Suburbs,13977.0,13977.0
+2024,3,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,241618.0,241618.0
+2024,3,"Technology, Advertising, Media, and Information",Denver,321608.0,107202.66666666667
+2024,3,"Technology, Advertising, Media, and Information",Los Angeles,306768.0,38346.0
+2024,3,"Technology, Advertising, Media, and Information",Manhattan,849821.0,38628.22727272727
+2024,3,"Technology, Advertising, Media, and Information",Nashville,127566.0,42522.0
+2024,3,"Technology, Advertising, Media, and Information",Northern New Jersey,477974.0,119493.5
+2024,3,"Technology, Advertising, Media, and Information",Northern Virginia,530752.0,75821.71428571429
+2024,3,"Technology, Advertising, Media, and Information",Orange County,231190.0,57797.5
+2024,3,"Technology, Advertising, Media, and Information",Phoenix,119529.0,39843.0
+2024,3,"Technology, Advertising, Media, and Information",Raleigh/Durham,101698.0,33899.333333333336
+2024,3,"Technology, Advertising, Media, and Information",Salt Lake City,64937.0,21645.666666666668
+2024,3,"Technology, Advertising, Media, and Information",San Francisco,631614.0,63161.4
+2024,3,"Technology, Advertising, Media, and Information",Seattle,125953.0,31488.25
+2024,3,"Technology, Advertising, Media, and Information",South Bay/San Jose,859721.0,66132.38461538461
+2024,3,"Technology, Advertising, Media, and Information",South Florida,176700.0,58900.0
+2024,3,"Technology, Advertising, Media, and Information",Southern Maryland,38322.0,19161.0
+2024,3,"Technology, Advertising, Media, and Information",Tampa,13999.0,13999.0
+2024,3,"Technology, Advertising, Media, and Information",Washington D.C.,37928.0,12642.666666666666
+2024,4,Financial Services and Insurance,Atlanta,542028.0,49275.27272727273
+2024,4,Financial Services and Insurance,Austin,64962.0,32481.0
+2024,4,Financial Services and Insurance,Baltimore,18304.0,18304.0
+2024,4,Financial Services and Insurance,Boston,413962.0,137987.33333333334
+2024,4,Financial Services and Insurance,Charlotte,57456.0,28728.0
+2024,4,Financial Services and Insurance,Chicago,317804.0,26483.666666666668
+2024,4,Financial Services and Insurance,Chicago Suburbs,89688.0,44844.0
+2024,4,Financial Services and Insurance,Dallas/Ft Worth,218544.0,31220.571428571428
+2024,4,Financial Services and Insurance,Denver,98542.0,49271.0
+2024,4,Financial Services and Insurance,Detroit,59112.0,19704.0
+2024,4,Financial Services and Insurance,Houston,41819.0,20909.5
+2024,4,Financial Services and Insurance,Los Angeles,252690.0,25269.0
+2024,4,Financial Services and Insurance,Manhattan,2352659.0,67218.82857142857
+2024,4,Financial Services and Insurance,Nashville,50676.0,25338.0
+2024,4,Financial Services and Insurance,Northern New Jersey,105696.0,26424.0
+2024,4,Financial Services and Insurance,Orange County,165409.0,82704.5
+2024,4,Financial Services and Insurance,Philadelphia,45166.0,22583.0
+2024,4,Financial Services and Insurance,Phoenix,112173.0,28043.25
+2024,4,Financial Services and Insurance,Salt Lake City,396415.0,132138.33333333334
+2024,4,Financial Services and Insurance,San Diego,39087.0,19543.5
+2024,4,Financial Services and Insurance,San Francisco,198525.0,39705.0
+2024,4,Financial Services and Insurance,South Florida,210108.0,19100.727272727272
+2024,4,Financial Services and Insurance,Southern Maryland,114807.0,28701.75
+2024,4,Financial Services and Insurance,Tampa,90798.0,22699.5
+2024,4,Legal Services,Atlanta,132249.0,44083.0
+2024,4,Legal Services,Austin,28354.0,28354.0
+2024,4,Legal Services,Baltimore,10939.0,10939.0
+2024,4,Legal Services,Boston,543898.0,135974.5
+2024,4,Legal Services,Chicago,52955.0,17651.666666666668
+2024,4,Legal Services,Dallas/Ft Worth,270845.0,33855.625
+2024,4,Legal Services,Denver,25324.0,25324.0
+2024,4,Legal Services,Detroit,50415.0,16805.0
+2024,4,Legal Services,Houston,84870.0,21217.5
+2024,4,Legal Services,Los Angeles,537097.0,44758.083333333336
+2024,4,Legal Services,Manhattan,1097911.0,78422.21428571429
+2024,4,Legal Services,Northern New Jersey,115251.0,38417.0
+2024,4,Legal Services,Northern Virginia,30883.0,15441.5
+2024,4,Legal Services,Orange County,104775.0,34925.0
+2024,4,Legal Services,Philadelphia,58544.0,29272.0
+2024,4,Legal Services,Raleigh/Durham,128327.0,64163.5
+2024,4,Legal Services,San Diego,61168.0,30584.0
+2024,4,Legal Services,San Francisco,94218.0,31406.0
+2024,4,Legal Services,South Bay/San Jose,120592.0,60296.0
+2024,4,Legal Services,South Florida,108693.0,15527.57142857143
+2024,4,Legal Services,Southern Maryland,10322.0,10322.0
+2024,4,Legal Services,Tampa,171329.0,57109.666666666664
+2024,4,Legal Services,Washington D.C.,413153.0,51644.125
+2024,4,"Technology, Advertising, Media, and Information",Atlanta,140703.0,28140.6
+2024,4,"Technology, Advertising, Media, and Information",Austin,117425.0,19570.833333333332
+2024,4,"Technology, Advertising, Media, and Information",Baltimore,19479.0,19479.0
+2024,4,"Technology, Advertising, Media, and Information",Boston,468086.0,78014.33333333333
+2024,4,"Technology, Advertising, Media, and Information",Charlotte,13000.0,13000.0
+2024,4,"Technology, Advertising, Media, and Information",Chicago,247849.0,30981.125
+2024,4,"Technology, Advertising, Media, and Information",Chicago Suburbs,52606.0,26303.0
+2024,4,"Technology, Advertising, Media, and Information",Dallas/Ft Worth,40987.0,20493.5
+2024,4,"Technology, Advertising, Media, and Information",Denver,173548.0,57849.333333333336
+2024,4,"Technology, Advertising, Media, and Information",Houston,133709.0,44569.666666666664
+2024,4,"Technology, Advertising, Media, and Information",Los Angeles,376353.0,31362.75
+2024,4,"Technology, Advertising, Media, and Information",Manhattan,2120225.0,111590.78947368421
+2024,4,"Technology, Advertising, Media, and Information",Northern New Jersey,24876.0,12438.0
+2024,4,"Technology, Advertising, Media, and Information",Northern Virginia,150229.0,30045.8
+2024,4,"Technology, Advertising, Media, and Information",Philadelphia,74503.0,37251.5
+2024,4,"Technology, Advertising, Media, and Information",Phoenix,67439.0,22479.666666666668
+2024,4,"Technology, Advertising, Media, and Information",Raleigh/Durham,37231.0,18615.5
+2024,4,"Technology, Advertising, Media, and Information",Salt Lake City,127012.0,127012.0
+2024,4,"Technology, Advertising, Media, and Information",San Diego,343588.0,57264.666666666664
+2024,4,"Technology, Advertising, Media, and Information",San Francisco,594648.0,54058.90909090909
+2024,4,"Technology, Advertising, Media, and Information",Seattle,287993.0,57598.6
+2024,4,"Technology, Advertising, Media, and Information",South Bay/San Jose,1740954.0,108809.625
+2024,4,"Technology, Advertising, Media, and Information",South Florida,41578.0,20789.0
+2024,4,"Technology, Advertising, Media, and Information",Southern Maryland,24068.0,24068.0
+2024,4,"Technology, Advertising, Media, and Information",Tampa,18745.0,18745.0

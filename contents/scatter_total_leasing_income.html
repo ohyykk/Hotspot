@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Animated Leasing Income Timeline</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body { font-family: sans-serif; margin: 20px; display: flex; flex-direction: column; align-items: center; }
+    .chart-container { position: relative; width: 960px; }
+    svg { width: 100%; height: 500px; overflow: visible; }
+    .line { fill: none; stroke-width: 2px; }
+    .axis-label { font-size: 12px; font-weight: bold; }
+    .tooltip { position: absolute; background: white; border: 1px solid #ccc; padding: 5px; pointer-events: none; font-size: 12px; }
+    .error { color: red; font-weight: bold; margin-top: 20px; }
+  </style>
+</head>
+<body>
+  <div class="chart-container">
+    <h2 id="chart-title">Leasing Income Timeline (Top 8 Markets)</h2>
+    <div>
+      <label for="industry-select">Select Industry:</label>
+      <select id="industry-select"></select>
+    </div>
+    <svg></svg>
+  </div>
+  <p class="error" id="error-msg" style="display:none;"></p>
+
+  <script>
+    // NOTE: For local CSV loading to work, serve this HTML via an HTTP server
+    // (e.g., `python -m http.server`) with timeline.csv in the same directory.
+
+    const margin = { top: 50, right: 20, bottom: 50, left: 60 };
+    const width = 960 - margin.left - margin.right;
+    const height = 500 - margin.top - margin.bottom;
+
+    const svg = d3.select('svg').append('g').attr('transform', `translate(${margin.left},${margin.top})`);
+    const xScale = d3.scaleLinear().range([0, width]);
+    const yScale = d3.scaleLinear().range([height, 0]);
+    const color = d3.scaleOrdinal(d3.schemeTableau10);
+    const xAxisG = svg.append('g').attr('transform', `translate(0,${height})`);
+    const yAxisG = svg.append('g');
+
+    svg.append('text').attr('class', 'axis-label').attr('x', width / 2).attr('y', height + margin.bottom - 10).attr('text-anchor', 'middle').text('Year + Quarter');
+    svg.append('text').attr('class', 'axis-label').attr('transform', 'rotate(-90)').attr('x', -height / 2).attr('y', -margin.left + 15).attr('text-anchor', 'middle').text('Total Leasing Income');
+
+    d3.csv('./timeline.csv', d3.autoType).then(data => {
+      data.forEach(d => d.time = d.year + (d.quarter - 1) / 4);
+      const industries = Array.from(new Set(data.map(d => d.internal_industry))).sort();
+      d3.select('#industry-select').selectAll('option').data(industries).enter().append('option').attr('value', d => d).text(d => d);
+      updateChart(industries[0]);
+      d3.select('#industry-select').on('change', function() { updateChart(this.value); });
+
+      function updateChart(industry) {
+        const filtered = data.filter(d => d.internal_industry === industry);
+        const nested = Array.from(d3.group(filtered, d => d.market, d => d.time), ([market, timeMap]) => ({
+          market,
+          values: Array.from(timeMap, ([time, recs]) => ({ time, value: d3.sum(recs, r => r.leasing) })).sort((a,b) => a.time - b.time)
+        }));
+        nested.forEach(d => d.total = d3.sum(d.values, v => v.value));
+        const top8 = nested.sort((a,b) => b.total - a.total).slice(0,8);
+
+        xScale.domain(d3.extent(data.map(d => d.time)));
+        yScale.domain([0, d3.max(top8, d => d3.max(d.values, v => v.value))]).nice();
+        color.domain(top8.map(d => d.market));
+
+        svg.selectAll('.line').remove();
+        svg.selectAll('.legend').remove();
+
+        const lineGen = d3.line().x(d => xScale(d.time)).y(d => yScale(d.value));
+        top8.forEach(d => {
+          const path = svg.append('path').datum(d.values).attr('class','line').attr('stroke', color(d.market)).attr('d', lineGen);
+          const totalLength = path.node().getTotalLength();
+          path.attr('stroke-dasharray', `${totalLength} ${totalLength}`).attr('stroke-dashoffset', totalLength)
+              .transition().duration(2000).ease(d3.easeLinear).attr('stroke-dashoffset', 0);
+        });
+
+        xAxisG.transition().duration(500).call(d3.axisBottom(xScale).tickFormat(d => {
+          const yr = Math.floor(d), q = Math.round((d-yr)*4)+1; return `${yr} Q${q}`;
+        }));
+        yAxisG.transition().duration(500).call(d3.axisLeft(yScale));
+
+        const legend = svg.append('g').attr('class','legend').attr('transform', `translate(${width-100},0)`);
+        top8.forEach((d,i) => { const g = legend.append('g').attr('transform', `translate(0,${i*20})`);
+          g.append('rect').attr('width',12).attr('height',12).attr('fill', color(d.market));
+          g.append('text').attr('x',18).attr('y',10).text(d.market);
+        });
+        d3.select('#chart-title').text(`Leasing Income: ${industry} (Top 8 Markets)`);
+      }
+    }).catch(error => {
+      console.error('Failed to load CSV:', error);
+      d3.select('#error-msg').style('display','block').text('Error loading timeline.csv – ensure this file is served via HTTP and in the same folder.');
+    });
+  </script>
+</body>
+</html>

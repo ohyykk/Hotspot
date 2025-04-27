@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sortable Top 10 Table</title>
+  <script src="https://d3js.org/d3.v6.min.js"></script>
+  <style>
+    body { font-family: sans-serif; margin: 20px; }
+    label { font-weight: bold; }
+    select { margin-left: 5px; padding: 3px; }
+    table { border-collapse: collapse; width: 100%; margin-top: 10px; }
+    th, td { border: 1px solid #ddd; padding: 8px; }
+    th { background-color: #f2f2f2; text-align: left; }
+  </style>
+</head>
+<body>
+  <h2>Sortable Top 10 Submarket Metrics</h2>
+  <div>
+    <label for="metric-select">Sort by:</label>
+    <select id="metric-select"></select>
+  </div>
+  <div id="table-container"></div>
+<script>
+const csvFile = 'revised_leases.csv';
+
+// Load data and initialize
+d3.csv(csvFile, d3.autoType).then(data => {
+  if (!data.length) {
+    d3.select('#table-container').text('No data loaded.');
+    return;
+  }
+  // Detect numeric columns
+  const numericCols = Object.keys(data[0]).filter(k => typeof data[0][k] === 'number');
+  // Populate dropdown
+  const select = d3.select('#metric-select');
+  select.selectAll('option')
+    .data(numericCols)
+    .enter().append('option')
+      .attr('value', d => d)
+      .text(d => d.replace(/_/g, ' '));
+  select.on('change', updateTable);
+
+  // Initial render
+  select.property('value', numericCols[0]);
+  updateTable();
+
+  function updateTable() {
+    const metric = select.property('value');
+    // Sort descending and take top 10
+    const top10 = data
+      .slice() // copy
+      .sort((a,b) => b[metric] - a[metric])
+      .slice(0, 10);
+
+    // Clear old table
+    d3.select('#table-container').html('');
+
+    // Build table
+    const cols = ['market','internal_submarket','internal_industry','Time_Period', metric];
+    const table = d3.select('#table-container').append('table');
+    const thead = table.append('thead').append('tr');
+    thead.selectAll('th')
+      .data(cols)
+      .enter().append('th')
+      .text(d => d.replace(/_/g, ' '));
+
+    const tbody = table.append('tbody');
+    const rows = tbody.selectAll('tr')
+      .data(top10)
+      .enter().append('tr');
+
+    rows.selectAll('td')
+      .data(row => cols.map(c => row[c]))
+      .enter().append('td')
+      .text(d => {
+        return typeof d === 'number' ? d.toLocaleString() : d;
+      });
+  }
+});
+</script>
+</body>
+</html>

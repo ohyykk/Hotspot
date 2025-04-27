@@ -48,7 +48,7 @@ h3 {
     font-family: Georgia, serif;
     color: #333;
     text-align: center;
-    background-color: #fff8dc;
+    background-color: #FFF9F9; /* Extremely light pink color */
 }
 
 /* First section with background image */
@@ -92,25 +92,13 @@ h3 {
     font-size: 1.2em;
 }
 
-/* Other sections backgrounds */
-.fp-section:nth-child(2) {
-    background-image: linear-gradient(128deg,#fafad2,#ffffe0);
-}
-
-.fp-section:nth-child(3) {
-    background-image: linear-gradient(128deg,#ffffe0,#fffacd);
-}
-
-.fp-section:nth-child(4) {
-    background-image: linear-gradient(128deg,#fffacd,#fff8dc);
-}
-
-.fp-section:nth-child(5) {
-    background-image: linear-gradient(128deg,#fff8dc,#fafad2);
-}
-
+/* Other sections backgrounds - all extremely light pink */
+.fp-section:nth-child(2),
+.fp-section:nth-child(3),
+.fp-section:nth-child(4),
+.fp-section:nth-child(5),
 .fp-section:nth-child(6) {
-    background-image: linear-gradient(128deg,#fafad2,#ffffe0);
+    background-color: #FFF9F9;
 }
 
 /* Overwriting styles for the navigation dots */
@@ -159,7 +147,7 @@ h3 {
     gap: 60px;
     padding: 20px;
     height: 100%;
-    background-color: #fff8dc;
+    background-color: #FFF9F9; /* Extremely light pink color */
 }
 
 .team-member {
@@ -218,7 +206,7 @@ h3 {
     justify-content: space-between;
     height: 100%;
     padding: 40px 0;
-    background-color: #fff8dc;
+    background-color: #FFF9F9; /* Extremely light pink color */
 }
 
 .team-title {

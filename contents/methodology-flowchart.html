@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hotspot Classification and Scoring</title>
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-image: url('../image/image6.jpg');
+            background-size: cover;
+            background-position: center;
+            margin: 0;
+            padding: 20px;
+        }
+        .flowchart {
+            max-width: 1400px;
+            margin: 0 auto;
+            position: relative;
+            padding: 5px;
+            background-color: rgba(255, 255, 255, 0.05);
+            border-radius: 10px;
+        }
+        .classification {
+            background-color: white;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 20px 0;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            position: relative;
+        }
+        .classification-title {
+            color: #FFB300;
+            font-size: 1.6em;
+            font-weight: bold;
+            margin-bottom: 2px;
+            text-align: center;
+            padding-top: 0;
+        }
+        .score-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            margin-top: 0;
+        }
+        .score-card {
+            background-color: #FFF3E0;
+            border-radius: 8px;
+            padding: 12px;
+            text-align: center;
+            min-height: 200px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .score-value {
+            font-size: 3em;
+            color: #E65100;
+            font-weight: bold;
+            margin: 15px 0;
+        }
+        .score-label {
+            font-size: 1.6em;
+            font-weight: bold;
+            margin-bottom: 15px;
+            color: #333;
+        }
+        .score-description {
+            font-size: 1.3em;
+            color: #666;
+            line-height: 1.4;
+        }
+        .negative-score {
+            background-color: #FFEBEE;
+        }
+        .positive-score {
+            background-color: #E8F5E9;
+        }
+        .highlight {
+            color: #E65100;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="flowchart">
+        <div class="classification">
+            <div class="classification-title">Hotspot Classification and Scoring System</div>
+            <div class="score-grid">
+                <div class="score-card positive-score">
+                    <div class="score-label">Growth Hubs</div>
+                    <div class="score-value">+3</div>
+                    <div class="score-description">Strong momentum in new leasing activity</div>
+                </div>
+                <div class="score-card positive-score">
+                    <div class="score-label">Emerging Opportunities</div>
+                    <div class="score-value">+3</div>
+                    <div class="score-description">Significant growth potential</div>
+                </div>
+                <div class="score-card positive-score">
+                    <div class="score-label">Stable and Established</div>
+                    <div class="score-value">+2</div>
+                    <div class="score-description">Reliable and proven performance</div>
+                </div>
+                <div class="score-card positive-score">
+                    <div class="score-label">Cost-Conscious Potential</div>
+                    <div class="score-value">+2</div>
+                    <div class="score-description">Affordable yet active leasing opportunities</div>
+                </div>
+                <div class="score-card positive-score">
+                    <div class="score-label">Volume Hubs</div>
+                    <div class="score-value">+1</div>
+                    <div class="score-description">Significant scale in total leasing</div>
+                </div>
+                <div class="score-card negative-score">
+                    <div class="score-label">Cooling Hubs</div>
+                    <div class="score-value">-2</div>
+                    <div class="score-description">Elevated risk due to declining activity</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html> 

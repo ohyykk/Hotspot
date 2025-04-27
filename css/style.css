@@ -1,0 +1,304 @@
+.data-source {
+    position: absolute;
+    bottom: 40px;
+    right: 20px;
+    font-size: 1em;
+    color: #666;
+    font-style: italic;
+}
+
+.slide {
+    position: relative;
+    padding-bottom: 60px; /* Add padding to prevent overlap with data source */
+}
+
+.percentage-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0;
+}
+
+.bubble-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+}
+
+.bubble-container.left {
+    left: -420px;
+}
+
+.bubble-container.right {
+    right: -420px;
+}
+
+.city-bubble {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    overflow: hidden;
+    animation: float 3s ease-in-out infinite;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+.city-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+@keyframes float {
+    0% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(-20px);
+    }
+    100% {
+        transform: translateY(0px);
+    }
+}
+
+/* Remove all previous animation styles */
+#fullpage .fp-section:nth-child(3) .fp-slide:nth-child(2) .data-card .highlight {
+    font-size: 2.5em !important;
+    font-weight: bold !important;
+    margin: 0 30px !important;
+    position: relative !important;
+    z-index: 1 !important;
+    color: #E65100 !important;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.2) !important;
+    display: block !important;
+    visibility: visible !important;
+}
+
+/* Remove conflicting styles */
+.data-card .highlight {
+    /* No animation here */
+}
+
+.slide h2 {
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+/* Tech Hub Impact slide background */
+.section:nth-of-type(3) .slide:nth-of-type(1) {
+    background-image: url('../image/image3.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.section:nth-of-type(3) .slide:nth-of-type(1)::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.7); /* White with 70% opacity */
+    z-index: 1;
+}
+
+.section:nth-of-type(3) .slide:nth-of-type(1) > * {
+    position: relative;
+    z-index: 2;
+}
+
+.section:nth-of-type(3) .slide:nth-of-type(2) {
+    background-image: url('../image/image3.jpg');
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.section:nth-of-type(3) .slide:nth-of-type(2)::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(255, 255, 255, 0.7); /* White with 70% opacity */
+    z-index: 1;
+}
+
+.section:nth-of-type(3) .slide:nth-of-type(2) > * {
+    position: relative;
+    z-index: 2;
+}
+
+.section:nth-of-type(3) .slide:nth-of-type(1) h2 {
+    font-size: 2.2em;
+}
+
+/* Style for both Market Overview and Tech Hub Impact headings */
+#fullpage .fp-section:nth-child(3) .fp-slide h2 {
+    font-size: 3.5em !important;
+    color: #E65100 !important;
+    margin-bottom: 30px !important;
+    text-align: center !important;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3) !important;
+}
+
+/* Remove previous attempts to avoid conflicts */
+#fullpage .fp-section:nth-child(3) .fp-slide.active h2,
+#fullpage .section:nth-of-type(3) .slide:nth-of-type(2) h2,
+.section:nth-of-type(3) .slide:nth-of-type(2) h2 {
+    font-size: 3.5em !important;
+    color: #E65100 !important;
+    margin-bottom: 30px;
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.city-name {
+    font-family: 'Playfair Display', serif;
+    font-size: 1.8em;
+    color: #E65100;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+    margin-top: 20px;
+}
+
+/* Remove old styles */
+.city-names,
+.city-name.left,
+.city-name.right {
+    display: none;
+}
+
+.percentage-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 30px;
+}
+
+.greater-than {
+    font-size: 2.5em;
+    color: #E65100;
+    font-weight: bold;
+    margin-right: 2px;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.2);
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 1;
+}
+
+/* Remove all percentage and animation related styles */
+.percentage {
+    font-size: 2.5em;
+    color: #E65100;
+    font-weight: bold;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 1;
+}
+
+/* Remove all highlight styles */
+.data-card .highlight {
+    color: #E65100;
+    font-weight: bold;
+}
+
+/* Remove animations only for first page */
+#fullpage > .section:first-child * {
+    animation: none !important;
+    transition: none !important;
+    transform: none !important;
+    opacity: 1 !important;
+}
+
+/* First page percentage animations */
+#fullpage > .section:first-child .data-card:nth-child(1) .percentage {
+    counter-reset: count 0;
+    animation: count1 2s forwards;
+}
+
+#fullpage > .section:first-child .data-card:nth-child(2) .percentage {
+    counter-reset: count 0;
+    animation: count2 2s forwards;
+}
+
+#fullpage > .section:first-child .data-card .percentage::after {
+    content: counter(count) '%';
+}
+
+@keyframes count1 {
+    from {
+        counter-increment: count 0;
+    }
+    to {
+        counter-increment: count 19.9;
+    }
+}
+
+@keyframes count2 {
+    from {
+        counter-increment: count 0;
+    }
+    to {
+        counter-increment: count 10.8;
+    }
+}
+
+/* Bubble animation for other pages */
+#fullpage > .section:not(:first-child) .city-bubble {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    overflow: hidden;
+    animation: float 3s ease-in-out infinite !important;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+@keyframes float {
+    0% {
+        transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(-20px);
+    }
+    100% {
+        transform: translateY(0px);
+    }
+}
+
+/* Base styles for data cards */
+.data-card {
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.data-card h3 {
+    color: #333;
+    margin-bottom: 10px;
+    font-size: 1.2em;
+}
+
+.data-card p {
+    color: #666;
+    margin: 0;
+    font-size: 1em;
+}
+
+.data-card .percentage {
+    font-size: 2.5em;
+    color: #E65100;
+    font-weight: bold;
+    margin: 15px 0;
+}
+
+/* Remove animations for section 3's page 2 percentage */
+#fullpage > .section:nth-of-type(3) .slide:nth-of-type(2) .percentage {
+    animation: none !important;
+    opacity: 1 !important;
+} 

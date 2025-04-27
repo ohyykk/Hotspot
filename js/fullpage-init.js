@@ -63,12 +63,26 @@ document.addEventListener('DOMContentLoaded', function() {
         lazyLoading: true,
 
         // Events
-        onLeave: function(origin, destination, direction){},
-        afterLoad: function(origin, destination, direction){},
+        onLeave: function(origin, destination, direction) {
+            // Remove the section-based animation trigger
+        },
+        afterLoad: function(origin, destination, direction){
+            // Add tooltip styling after page load
+            const tooltips = document.querySelectorAll('#fp-nav ul li .fp-tooltip');
+            tooltips.forEach(tooltip => {
+                tooltip.style.color = '#E65100';
+                tooltip.style.background = 'rgba(255, 255, 255, 0.8)';
+                tooltip.style.borderRadius = '4px';
+                tooltip.style.padding = '4px 8px';
+                tooltip.style.boxShadow = '0 2px 4px rgba(0,0,0,0.1)';
+            });
+        },
         afterRender: function(){},
         afterResize: function(width, height){},
         afterResponsive: function(isResponsive){},
-        afterSlideLoad: function(section, origin, destination, direction){},
+        afterSlideLoad: function(section, origin, destination, direction) {
+            // Animation is now handled by CSS
+        },
         onSlideLeave: function(section, origin, destination, direction){}
     });
 }); 

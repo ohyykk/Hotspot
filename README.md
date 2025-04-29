@@ -1,4 +1,4 @@
-# Growth,Stability, and Decline: Rethinking Office Hubs and Post-Pandemic America
+# Growth, Stability, and Decline: Rethinking Office Hubs and Post-Pandemic America
 
 ## Overview
 Savills provided a dataset covering all known commercial lease transactions (2018–2024) across key U.S. markets. The pandemic disrupted this sector significantly. Our goal is to uncover spatial and temporal leasing patterns across submarkets to support strategic office placement for clients in Tech, Finance, Legal, and beyond.
